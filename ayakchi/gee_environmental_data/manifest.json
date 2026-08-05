@@ -1,0 +1,100 @@
+{
+  "created_utc": "2026-08-05",
+  "earth_engine_project": "ee-sabitovty",
+  "aoi_source": "hydromorphology_outputs\\basin_boundary.geojson",
+  "aoi_wgs84_bounds": [
+    66.78362584413202,
+    39.28313926004956,
+    66.89690413692234,
+    39.42507014990856
+  ],
+  "recent_period": [
+    "2021-01-01",
+    "2026-01-01"
+  ],
+  "climate_normal_period": [
+    "1991-01-01",
+    "2021-01-01"
+  ],
+  "catalog": {
+    "dynamic_world": "GOOGLE/DYNAMICWORLD/V1",
+    "worldcover": "ESA/WorldCover/v200",
+    "sentinel2": "COPERNICUS/S2_SR_HARMONIZED",
+    "surface_water": "JRC/GSW1_4/GlobalSurfaceWater",
+    "chirps": "UCSB-CHG/CHIRPS/DAILY",
+    "era5_land": "ECMWF/ERA5_LAND/DAILY_AGGR",
+    "modis_snow": "MODIS/061/MOD10A1"
+  },
+  "outputs": [
+    {
+      "file": "rasters\\01_dynamic_world_mode_growing_season_2025.tif",
+      "source_asset": "GOOGLE/DYNAMICWORLD/V1",
+      "description": "Modal 9-class land cover for April\u2013October 2025",
+      "units": "class codes 0 water, 1 trees, 2 grass, 3 flooded vegetation, 4 crops, 5 shrub/scrub, 6 built, 7 bare, 8 snow/ice",
+      "nominal_scale_m": 10
+    },
+    {
+      "file": "rasters\\02_esa_worldcover_2021.tif",
+      "source_asset": "ESA/WorldCover/v200",
+      "description": "Independent 2021 land-cover benchmark",
+      "units": "ESA class code",
+      "nominal_scale_m": 10
+    },
+    {
+      "file": "rasters\\03_sentinel2_environmental_indices_growing_season_2025.tif",
+      "source_asset": "COPERNICUS/S2_SR_HARMONIZED",
+      "description": "April\u2013October 2025 cloud-masked median NDVI, NDMI, NBR and MNDWI",
+      "units": "unitless",
+      "nominal_scale_m": 20
+    },
+    {
+      "file": "rasters\\04_jrc_surface_water_history.tif",
+      "source_asset": "JRC/GSW1_4/GlobalSurfaceWater",
+      "description": "Long-term surface-water occurrence, seasonality and transition",
+      "units": "percent; months; transition class",
+      "nominal_scale_m": 30
+    },
+    {
+      "file": "rasters\\05_chirps_annual_precipitation_1991_2020.tif",
+      "source_asset": "UCSB-CHG/CHIRPS/DAILY",
+      "description": "Mean annual precipitation for the WMO 1991\u20132020 normal period",
+      "units": "mm/year",
+      "nominal_scale_m": 5566
+    },
+    {
+      "file": "rasters\\06_chirps_monthly_climatology_1991_2020.tif",
+      "source_asset": "UCSB-CHG/CHIRPS/DAILY",
+      "description": "Mean monthly precipitation climatology",
+      "units": "mm/month",
+      "nominal_scale_m": 5566
+    },
+    {
+      "file": "rasters\\07_era5_land_recent_climate_2021_2025.tif",
+      "source_asset": "ECMWF/ERA5_LAND/DAILY_AGGR",
+      "description": "Recent temperature, surface soil water, snow cover and runoff summary",
+      "units": "mixed; see band names",
+      "nominal_scale_m": 11132
+    },
+    {
+      "file": "rasters\\08_modis_snow_frequency_2001_2025.tif",
+      "source_asset": "MODIS/061/MOD10A1",
+      "description": "Fraction of valid daily MODIS observations classified as snow (NDSI snow cover >=10%)",
+      "units": "percent",
+      "nominal_scale_m": 500
+    },
+    {
+      "file": "timeseries\\chirps_daily_basin_mean_2021_2025.csv",
+      "source_asset": "UCSB-CHG/CHIRPS/DAILY",
+      "description": "Daily basin-average precipitation",
+      "units": "mm/day",
+      "nominal_scale_m": 5566
+    },
+    {
+      "file": "timeseries\\era5_land_daily_basin_mean_2021_2025.csv",
+      "source_asset": "ECMWF/ERA5_LAND/DAILY_AGGR",
+      "description": "Daily basin-average climate and land-surface variables",
+      "units": "C; m3/m3; fraction; mm/day",
+      "nominal_scale_m": 11132
+    }
+  ]
+}

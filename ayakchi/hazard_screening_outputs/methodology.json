@@ -1,0 +1,49 @@
+{
+  "purpose": "relative basin-scale susceptibility screening",
+  "limitations": [
+    "not a calibrated probability or forecast",
+    "not a flood-inundation or landslide inventory model",
+    "does not include detailed soils, geology, roads, buildings, population or observed event inventories",
+    "class thresholds are fixed index intervals and express relative susceptibility inside Ayakchi"
+  ],
+  "hazards": {
+    "rapid_runoff": {
+      "title": "Rapid Runoff and Channel-Concentration Susceptibility",
+      "weights": "Contributing area 38% | slope 22% | land cover 20% | local relief 20%"
+    },
+    "erosion": {
+      "title": "Soil-Erosion Susceptibility",
+      "weights": "Slope 35% | local relief 25% | land cover 25% | low vegetation cover 15%"
+    },
+    "terrain_instability": {
+      "title": "Terrain-Instability Susceptibility",
+      "weights": "Slope 42% | relief 23% | lower-slope position 15% | land cover 20%"
+    },
+    "drought_stress": {
+      "title": "Drought and Ecosystem-Stress Susceptibility",
+      "weights": "Low moisture 32% | low greenness 28% | land cover 25% | solar exposure 15%"
+    },
+    "wildfire": {
+      "title": "Wildfire Susceptibility",
+      "weights": "Dryness 30% | fuel cover 25% | solar exposure 20% | slope 15% | biomass 10%"
+    },
+    "snowmelt_runoff": {
+      "title": "Seasonal Snowmelt-Runoff Potential",
+      "weights": "Historical snow 40% | elevation 20% | slope 20% | flow concentration 20%"
+    }
+  },
+  "multi_hazard_components": [
+    "rapid_runoff",
+    "erosion",
+    "terrain_instability",
+    "drought_stress",
+    "wildfire"
+  ],
+  "inputs": [
+    "SRTM terrain derivatives",
+    "D8 contributing area",
+    "Dynamic World 2025 land cover",
+    "Sentinel-2 2025 NDVI and NDMI",
+    "MODIS 2001\u20132025 snow frequency"
+  ]
+}
