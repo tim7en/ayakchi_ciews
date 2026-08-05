@@ -1,0 +1,1 @@
+{"type": "FeatureCollection", "crs": {"type": "name", "properties": {"name": "EPSG:32642"}}, "features": [{"type": "Feature", "properties": {"name": "Ayakchi Dam (Option -5)", "source_lon": 66.78400725556058, "source_lat": 39.3004695565556, "snap_distance_m": 183.47259646938105}, "geometry": {"type": "Point", "coordinates": [309073.8232653204, 4352365.1429449385]}}]}
