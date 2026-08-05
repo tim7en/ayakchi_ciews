@@ -1,0 +1,13 @@
+{
+  "connected_basin_area_km2": 372.762,
+  "contributing_area_at_dam_km2": 89.2953,
+  "incremental_area_below_dam_km2": 283.4667,
+  "incremental_area_percent": 76.04495629919359,
+  "dam_to_city_outlet_path_km": 47.8607596976896,
+  "dam_elevation_m": 855.4034423828125,
+  "outlet_elevation_m": 515.1666870117188,
+  "path_elevation_drop_m": 340.23675537109375,
+  "average_path_gradient_percent": 0.7108887479433765,
+  "dam_coordinate_snap_m": 96.7743661075446,
+  "stream_extraction_threshold_km2": 2.0
+}

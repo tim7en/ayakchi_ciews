@@ -1,0 +1,22 @@
+{
+  "basin_area_km2": 89.0946,
+  "climate_normal_annual_precipitation_mm": 421.26679004728794,
+  "recent_mean_annual_precipitation_mm": 328.2303063692378,
+  "driest_recent_year": 2021,
+  "driest_year_percent_of_normal": 57.591747773393195,
+  "wettest_recent_year": 2022,
+  "wettest_year_percent_of_normal": 106.51910254098411,
+  "largest_3day_rainfall_year": 2022,
+  "largest_3day_rainfall_mm": 56.28232619163214,
+  "largest_3day_basin_water_input_mcm": 5.014451339112989,
+  "mean_annual_era5_surface_runoff_volume_mcm": 2.0894303303791912,
+  "option_5_nominal_capacity_mcm_from_layer_name": 18.0,
+  "largest_3day_gross_rainfall_as_percent_of_nominal_capacity": 27.858062995072157,
+  "lowest_recent_runoff_proxy_year": 2025,
+  "lowest_recent_runoff_proxy_mcm": 0.8820842318360088,
+  "limitations": [
+    "Only five recent years are available for empirical probability estimates.",
+    "Rainfall volume is not reservoir inflow; losses, routing and storage are not modeled.",
+    "ERA5-Land is coarse reanalysis and surface runoff is a screening proxy."
+  ]
+}
