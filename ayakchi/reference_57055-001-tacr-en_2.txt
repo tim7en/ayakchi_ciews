@@ -1,0 +1,2039 @@
+
+
+===== PDF PAGE 1 =====
+
+ 
+ 
+Technical Assistance Consultant’s Report 
+This consultant’s report does not necessarily reflect the views of ADB or the Government concerned, and  
+ADB and the Government cannot be held liable for its contents. (For project preparatory technical assistance: 
+All the views expressed herein may not be incorporated into the proposed project’s design.)  
+ 
+ 
+ 
+PUBLIC 
+ 
+Project Number: 57055-001 
+May 2026 
+ 
+ 
+ 
+Regional: Increasing Investments in Early Warning 
+Systems to Strengthen Climate and Disaster 
+Resilience 
+Republic of Uzbekistan: Climate Information and Early Warning Systems  
+Stakeholder and Landscape Mapping Report  
+ 
+ 
+Prepared by Timur Sabitov 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+For the Asian Development Bank 
+ 
+ 
+ 
+ 
+   
+
+===== PDF PAGE 2 =====
+
+ 
+ 
+   
+ 
+CONTENTS 
+ 
+I. INTRODUCTION ------------------------------------------------------------------------------------------------ ------- 1 
+A. Background on Central Asia Climate -------------------------------------------------------------------------- 1 
+B. Objectives of the Report ------------------------------------------------------------------------------------------ 1  
+II. Country Climate Risk Context ----------------------------------- ---------------------------------------------------  3 
+A. Impact of Climate Change -------------------------------------------------- ------------------------------------- 3  
+B. Projections and Scenarios -------------------------------------------------- ------------------------------------- 4  
+III. CIEWS STAKEHOLDERS AND Institutional Landscape --------------------- ------------------------------- 6  
+A. Regional Coordination for Water Resources in Central Asia -------------------------------------------- 6 
+B. National Institutional Arrangements ----------------------------- ---------------------------------------------- 8  
+IV. Existing Systems & Ongoing Projects -------------------------- ------------------------------------------------- 14 
+A. Water–Agriculture Digital Ecosystem in Uzbekistan ------------------------------------------------------ 14 
+B. Relevant Ongoing Projects in the Republic of Uzbekistan ---------------------------------------------- 16 
+C. Existing Gaps & Challenges ------------------------------------------------------------------------------------ 18 
+D. Recommendations ------------------------------------------------------------------------------------------------ 18 
+V. References --------------------------------------------- --------------------------------------------------- ------------- 20 
+Annex 1: Aide-Mémoire of Meetings ----------------------------- --------------------------------------------------- ---- 22 
+A. Meeting with Centre for Implementation of Foreign Investment Projects in the Water Sector 
+(CIFIPWS) under the Ministry of Water Resources (MoWR) -------------------------------------------------- 22 
+B. Meeting with Agency of Hydrometeorology under the National Committee on Ecology and 
+Climate Change (NCECC) and the United Nations Development Programme (UNDP)  ---------------- 23 
+C. Meeting with Agency of Hydrometeorology under the National Committee on Ecology and 
+Climate Change (NCECC) and the United Nations Development Programme (UNDP)  ---------------- 24 
+Annex 2. Overview of Country Climate Context ---------------------------------------------------------------------- 26 
+A. Air Temperature Analysis -------------------------------------------------- ------------------------------------- 26 
+B. Precipitation -------------------------------------------------- --------------------------------------------------- --- 26 
+C. Heat Impact ----------------------------------------------------------------------------------------------------- ---- 27 
+D. Landslides and Mudflows -------------------------------------------------- ------------------------------------- 28 
+E. Climate Projections -------------------------------------------------- --------------------------------------------- 29 
+F. Green Transition --------------------------------------------------------------------------------------------------- 31 
+Annex 3. Relevant Ongoing and Newly-Approved Projects in CIEWS in Uzbekistan ----------------------- 33 
+ 
+  
+
+===== PDF PAGE 3 =====
+
+ 
+ 
+   
+ 
+ABBREVIATIONS 
+ 
+ADB Asian Development Bank 
+AT apparent temperature 
+BISA Basin Irrigation System Administration 
+BTR1 First Biennial Transparency Report of Uzbekistan under the Paris 
+Agreement 
+BWO Basin Water Organization (Amu Darya, Syr Darya) 
+CAREC Central Asia Regional Economic Cooperation Program 
+CARFFGS Central Asia Regional Flash Flood Guidance System 
+CIEWS climate information and early warning system(s) 
+CMIP5 Coupled Model Intercomparison Project Phase 5 
+CMIP6 Coupled Model Intercomparison Project Phase 6 
+COSMO-CA COSMO–Central Asia numerical weather prediction model 
+CRU-TS3.24 Climatic Research Unit Time Series v3.24 dataset 
+DRR disaster risk reduction 
+ET₀ reference evapotranspiration 
+EIA environmental impact assessment 
+EWS early warning system 
+EW4All “Early Warnings for All” global initiative 
+GCF Green Climate Fund 
+GDP gross domestic product 
+GFCS Global Framework for Climate Services 
+GGGI Global Green Growth Institute 
+GHG greenhouse gas(es) 
+GIS geographic information system 
+GIZ Deutsche Gesellschaft für Internationale Zusammenarbeit 
+GLOF glacial lake outburst flood 
+GLOFCA Reducing Risks of Glacial Lake Outburst Floods in Central Asia 
+programme 
+Humidex Humidity–temperature heat-stress index 
+ICWC Interstate Commission for Water Coordination of Central Asia 
+ICON ICOsahedral Nonhydrostatic global/regional weather model 
+ICONIC ICON in the Cloud initiative 
+IFAS International Fund for Saving the Aral Sea 
+IVR interactive voice response 
+Kc Crop coefficient for crop-water requirements 
+MEEPCC Ministry of Ecology, Environmental Protection and Climate 
+Change 
+MES Ministry of Emergency Situations 
+MFF Multi-tranche Financing Facility 
+MHEWS Multi-Hazard Early Warning System (GCF funded project) 
+MODSNOW MODIS-based snow-cover and runoff guidance product for 
+Central Asia 
+MoA Ministry of Agriculture 
+MoWR Ministry of Water Resources 
+NCECC National Committee on Ecology and Climate Change 
+
+===== PDF PAGE 4 =====
+
+ 
+ 
+   
+ 
+NC4 Fourth National Communication of Uzbekistan under the 
+UNFCCC 
+NDC nationally determined contribution 
+NFCS National Framework for Climate Services 
+O&M operation and maintenance 
+PD-183 Presidential Decree PD-183 on water-sector digitalization and 
+sustainable development 
+PKM-79 Cabinet Resolution No. 79 on State Institutions “Water Supply 
+Service” 
+PKM-82 Cabinet Resolution No. 82 on the procedure for water use and 
+water consumption 
+RCP Representative Concentration Pathway 
+SCADA supervisory control and data acquisition 
+SDGs sustainable development goals 
+SEPRS State Emergency Prevention and Response System 
+SIC ICWC Scientific Information Center of the Interstate Commission for 
+Water Coordination in Central Asia 
+Uzhydromet Center of Hydrometeorological Service of the Republic of 
+Uzbekistan 
+UNDP United Nations Development Programme 
+UNECE United Nations Economic Commission for Europe 
+UNESCO United Nations Educational, Scientific and Cultural Organization 
+UNFCCC United Nations Framework Convention on Climate Change 
+USSD Unstructured Supplementary Service Data 
+WEAP water evaluation and adaptation planning 
+WMO World Meteorological Organization 
+WSS Water Supply Service (state institution under MoWR) 
+WUA water user association 
+WUEMoCA Water Use Efficiency Monitoring in Central Asia 
+ 
+  
+
+===== PDF PAGE 5 =====
+
+ 
+ 
+   
+ 
+GLOSSARY 
+ 
+Agroplatforma  Integrated digital platform for crop planning, finance, and 
+agricultural data in Uzbekistan. 
+AT  Index of perceived temperature including air temperature, 
+humidity, wind and radiation. 
+BISA Sub-national body managing irrigation systems and canal 
+operations. 
+BWO Regional body that allocates and regulates Amu Darya and 
+Syr Darya flows between states. 
+CARFFGS  Regional flash-flood guidance system providing short-lead 
+warnings for small basins in Central Asia. 
+CIEWS  End-to-end chain from climate and hydromet data to warnings 
+and sectoral decisions. 
+COSMO-CA  Regional high-resolution weather model used by Uzhydromet 
+and Central Asian NMHSs. 
+CRU-TS3.24  Global gridded climate dataset used to bias-correct and 
+validate climate model outputs. 
+EW4All UN initiative to ensure every person is protected by multi-
+hazard early warning systems. 
+EWS Generic term for early warning systems; in this report EWS is 
+is mostly covered under “CIEWS” unless referring to the 
+MHEWS project. 
+ET₀/Kc  Reference evapotranspiration and crop coefficient used to 
+calculate crop-water requirements. 
+GLOF/GLOFCA  Glacial lake outburst floods and the regional program 
+reducing their risks in Central Asia. 
+Humidex  Index combining air temperature and humidity to describe 
+human heat stress. 
+ICON/ICONIC  New-generation weather model and its cloud-based 
+implementation piloted for Central Asia. 
+IFAS/ICWC  Regional institutions coordinating the Aral Sea Basin Water 
+Management and Allocations. 
+NCECC  Former central environment and climate ministry; core 
+mandates now transferred to the National Committee on 
+Ecology and Climate Change. 
+MHEWS  System integrating multiple hazards (floods, mudflows, 
+drought, heat, etc.) into one warning chain (GCF funded 
+project). 
+MODSNOW  Satellite-based product for snow cover and runoff guidance in 
+mountain basins. 
+NC4/BTR1/NDC  Main UNFCCC reporting instruments outlining Uzbekistan’s 
+climate status and targets. 
+NFCS  Governance framework for coordinating climate services 
+across sectors and institutions. 
+PD-183/PKM-79/PKM-
+82  
+Core legal acts regulating digital water accounting, water 
+supply services, and water-use procedures. 
+
+===== PDF PAGE 6 =====
+
+ 
+ 
+   
+ 
+SCADA  Telemetry and control infrastructure used to operate dams, 
+pumps, and canal gates in real time. 
+SEPRS  National system that structures prevention, preparedness, 
+early warning, and response to emergencies. 
+SDGs  Global framework guiding climate-resilient and low-carbon 
+development. 
+Uzhydromet  National hydrometeorological service that provides 
+observations, forecasts, and warnings. 
+WSS  District-level state operator that delivers water to farms and 
+collects field-level data. 
+WUA Farmer-based organization managing on-farm distribution 
+and local water schedules. 
+WUEMoCA  Online tool monitoring water use efficiency and land 
+productivity in Central Asia. 
+ 
+  
+
+===== PDF PAGE 7 =====
+
+ 
+ 
+   
+ 
+EXECUTIVE SUMMARY 
+ 
+Uzbekistan is entering a decisive decade in which climate change will increasingly be transmitted 
+through water, reshaping agriculture, energy security, public health, and rural livelihoods. Rising 
+temperatures, shrinking snow and glacier storage, more frequent heatwaves, and intensifying 
+floods, mudflows, and droughts are already narrowing the margin for erro r in operating the Amu 
+Darya and Syr Darya systems and protecting vulnerable communities. This report  supports the 
+Government’s response by mapping the institutional, regulatory, and digital landscape for Climate 
+Information and Early Warning Systems (CIEWS) and by proposing a “forecast -to-field” 
+architecture that connects regional river-basin governance, national climate services, basi n 
+operations, and last-mile decisions. 
+ 
+Analysis of national observations, Uzbekistan’s Fourth National Communication 1 and Biennial 
+Transparency Report,2 and recent scientific review confirms that the country has warmed faster  
+than global averages, with statistically significant increases in annual mean temperature at most 
+stations and particularly strong warming in lowland deserts. Heatwaves are more frequent and 
+intense, driving excess mortality and a rising burden of heat-sensitive disease, while m udflows 
+and landslides remain among the most damaging hazards in eastern and southern moun tain 
+belts. Multi-model projections point to continued rapid warming, especially in summer, modest but 
+important shifts in seasonal precipitation, shorter frost and snow seasons, and  greater 
+hydrological variability in key runoff-formation zones. Even where annual precipi tation remains 
+near current levels, the timing and form of runoff will change, increasing  both drought and flood 
+risk and placing higher demands on reservoir storage, conveyance, and early warning. 
+ 
+Uzbekistan confronts these risks with a strong reform platform. The Uzbeki stan-2030 Strategy,3 
+the Strategy for Transition to a Green Economy, updated Nationally Det ermined Contribution 
+(NDC) 3.0, 4 and the designation of 2025 as the “Year of Environmental Protection and Gree n 
+Economy” anchors climate ambition in national policy. Institutionally, this agenda is now led by 
+the newly established National Committee on Ecology and Climate Change (NCECC), formerly 
+the Ministry of Ecology, Environmental Protection and Climate Change.5 NCECC reports directly 
+to the President and collectively works as the center for climate information and coo rdination for 
+CIEWS development along with the Centre of Hydrometeorological Service (Uzhydromet) and the 
+National Framework for Climate Services (NFCS). Recent water- and agriculture-se ctor reforms 
+include updated rules on water use, the creation of specialized Water Supply Services (WSS ), 
+accelerated digitalization of water management, and the roll-out of the Agroplatforma /CropAgro 
+ecosystem. These reforms create a more integrated, data-driven chain from clim ate signals to 
+crop planning, water allocation, and sustainable rural financing. 
+ 
+Regionally and nationally, CIEWS is embedded in relatively advanced water-governance  
+architecture. The International Fund for Saving the Aral Sea (IFAS) and the Interstate Commission 
+for Water Coordination 6 (ICWC), supported by Basin Water Organizations (BWOs) and the 
+Scientific-Information Center of ICWC, translate seasonal water-availability forecasts into shared 
+ 
+1 https://unfccc.int/sites/default/files/resource/4NC_Uzbekistan_ENG_14%2010_SEC.pdf?  
+2  https://unfccc.int/documents/645311 
+3  https://lex.uz/docs/6600404# 
+4  https://unfccc.int/sites/default/files/2025-11/Uzbekistan%20Third%20NDC.pdf 
+5  https://www.lex.uz/uz/docs/7847356 
+6  http://www.icwc-aral.uz/ 
+
+===== PDF PAGE 8 =====
+
+ 
+ 
+   
+ 
+withdrawal limits and reservoir regimes for the Amu Darya and Syr Darya. Withi n Uzbekistan, 
+Uzhydromet provides the observation, modeling, and warning backbone, operating an 
+increasingly automated network of meteorological, hydrological, agrometeorological, ai r-quality, 
+avalanche, and radar stations and running regional numerical weather prediction models.  Its 
+hazard products and seasonal outlooks inform regional allocation decisions and domestic actors, 
+notably the Ministry of Water Resources (MoWR), the Ministry of Agr iculture (MoA), and the 
+Ministry of Emergency Situations (MES) under the State Emergency Prevention and Response 
+System (SEPRS). MoWR is rapidly building a digital ecosystem centered on t he “Suv hisobi”
+7 
+water-accounting platform, the State Water Cadastre, pump-meter integration, sat ellite-based 
+monitoring, and a new Water Sector Situation Center. MES, on the other hand,  converts alerts 
+into public warnings, evacuations, and protective measures. Water Supply Services (WSSs) and 
+Water User Associations (WUAs) turn these signals into rotation schedules and practical  
+instructions for farmers and communities.  
+ 
+In parallel, MoA and the Agri-Digitalization Center operate Agroplatforma 8/CropAgro.9 This links 
+crop placement, credit, insurance, and producer contracts to the same geospati al parcels and 
+water-availability constraints. This opens a strategic channel for climate-informed  rotations and 
+forecast-based financing. This architecture is reinforced by major international investments.  
+ 
+The Green Climate Fund –UNDP multi-hazard early warning programme 10 has expanded 
+automatic monitoring, radar coverage, and impact-based services. The programme inten ds to 
+have a nationwide scale in its second phase. Regional initiatives with GGGI and K- Water, GIZ’s 
+Climate Risk Management programme, and UNESCO’s GLOFCA 11 project deepen technical 
+capabilities in flood, drought, and glacial-lake risk management as well as provide  tools and 
+datasets for a national CIEWS roadmap. These programmes position Uzbekist an as a regional 
+leader in climate and water-risk governance while also revealing where further  integration and 
+institutionalization are required. 
+ 
+Moreover, this report identifies critical gaps that prevent the CIEWS –SEPRS chain from 
+functioning as a fully impact- based, “forecast-to-action” system. Warning products are not yet 
+anchored to binding, cross-ministerial trigger matrices that automatically translate thresholds into 
+reservoir drawdowns, canal operations, crop-rotation adjustments, and social-protection or health 
+measures. Sectoral bulletins and inter-agency risk assessments are largely ad hoc rather than 
+issued on a fixed cadence with clear service expectations. Observation and communications 
+redundancy remain uneven, particularly in high-risk mountain and rural areas. Long-term 
+operation and maintenance funding is not securely ring-fenced. Data standards and identifiers  
+are fragmented across hydrometeorological, water, agriculture, cadastre, and pump-mete r 
+systems, complicating interoperability and limiting the reliability of satellite and normative fallback 
+methods where meters are absent. At the last mile, the conversion of alerts into actionable farm-
+level decisions depends heavily on WSSs and WUAs whose digital access, technical capaci ty, 
+and inclusivity are variable, while capacity in impact modeling, GIS, and risk com munication at 
+regional and district levels remains limited. 
+ 
+ 
+7 https://lex.uz/docs/4892953  
+8  https://agroplatforma.uz/ 
+9  https://crop.agro.uz/ 
+10 https://www.greenclimate.fund/countries/uzbekistan 
+11 https://www.adaptation-fund.org/project/reducing-vulnerabilities-of-populations-in-the-central-asia-region-from-
+glacier-lake-outburst-floods-in-a-changing-climate/ 
+
+===== PDF PAGE 9 =====
+
+ 
+ 
+   
+ 
+Based on national institutions and extensive field consultations in the cities of Fergana, A ndijan, 
+and Namangan on detailed mapping of mandates, data flows, and decision pathways, this report 
+recommends a phased modernization of Uzbekistan’s CIEWS. Key priorities are to: (i) formalize 
+national, sector-specific trigger matrices that link Uzhydromet thresholds to standard ope rating 
+procedures in MoWR, MES and MoA; (ii) create a unified, real-time multi-ha zard dashboard 
+combining meteorological, hydrological, water-accounting, pump-meter and cadastral da ta; (iii) 
+complete universal metering and anti-tamper enforcement while harmonizing identifiers and data 
+schemas across platforms; (iv) secure predictable lifecycle financing for observation,  radar and 
+communications infrastructure; (v) expand inclusive last-mile channels and training for W SS, 
+WUAs and community actors; and (vi) embed forecast-triggered financing and contingency plans 
+for drought, heat and floods. Piloting this “forecast -to-field” package, with clear per formance 
+indicators, would enable iterative learning before national scale-up and deeper  integration with 
+regional platforms. This will help Uzbekistan consolidate recent reforms into a coherent, climate-
+smart CIEWS that protects lives and livelihoods, optimizes scarce water resources, and supports 
+resilient green transition. 
+
+===== PDF PAGE 10 =====
+
+
+
+===== PDF PAGE 11 =====
+
+1 
+ 
+I. INTRODUCTION 
+ 
+A. Background on Central Asia Climate 
+ 
+1. Central Asia’s climate risks are intensifying, with impacts transmitted strongly through 
+water into energy, agriculture/irrigation, public health, and watershed management. In t he Amu 
+Darya–Syr Darya systems, reduced snow/ice storage, higher evapotranspiration and more 
+frequent heat/drought events strain irrigation demand, reservoir operations and flood/mudflow risk 
+management, especially in the lowlands. 
+ 
+2. The region is highly vulnerable to climate change, with human-driven greenhouse ga ses 
+dominating the region’s century-scale forcing. Observations indicate about 1.2 °C of warming over 
+the past 70 years and roughly a 20% decline in snow depth—most pronounced in the mountains—
+along with longer summers and more than 20 fewer icing days per year. Anal ysis of 442 
+CMIP512/CMIP613 simulations show CMIP6 is generally warmer/wetter and more temperature-
+sensitive than CMIP5. Under high-emission pathways (RCP8.5 14/SSP5-8.515) CMIP6 projects 
+~6.1°C warming versus ~5.3°C in CMIP5, while precipitation changes are weaker and less  
+consistent. Greater snow/glacier melt boosts near-glacier runoff and flood risk, an d 2–6 °C of 
+regional warming by 2100 is plausible, >4 °C is very likely without mitigation, extending the glacier-
+melt season. Model uncertainty grows in the far future, but both ensembles capture observed 
+warming trends. Köppen classifications shift toward warmer types, with tundra/ice-cap zones in 
+the Amu Darya and Syr Darya basins shrinking by >60%, implying major impacts on hydrol ogy 
+and water management.
+16 
+ 
+B. Objectives of the Report 
+ 
+3. The objective of the stakeholder and landscape mapping report is to facilitate t he 
+development of an integrated Climate Information and Early Warning System (CIEWS) in  
+Uzbekistan, supporting the preparation of the Resilient Amu Darya River Basi n Sector 
+Development Program: 
+ 
+i. Summarize climate risks and projections relevant to CIEWS design . Consolidate 
+evidence on observed climate change, key hazards (heat, drought, floods, 
+mudflows/landslides) and projected climate trends for Uzbekistan and the wider Am u 
+Darya–Syr Darya system, highlighting implications for water resources, agriculture, 
+energy and public health. 
+ 
+12 CMIP5 (Coupled Model Intercomparison Project Phase 5) is an international framework where many climate 
+modeling centers ran standardized global climate models using the same inputs, so their results could be compared 
+and combined. It underpins much of the climate science used in Intergovernmental Panel on Climate  Change’s 
+(IPCC) Fifth Assessment Report. 
+13 CMIP6 (Coupled Model Intercomparison Project Phase 6) is the latest international framework for coordinated climate 
+model simulations. It provides an updated generation of g lobal climate models used in IPCC’s Sixth Assessment 
+Report (IPCC AR6) and current climate risk assessments. Like CMIP5, CMIP6 does not measure observations —it 
+produces model‑based simulations of the climate system. 
+14 RCP8.5 stands for Representative Concentration Pathway 8.5. It is a high greenhouse‑gas emissions scenario used 
+in climate modeling to explore how the climate system wou ld respond under very high future emissions and limited  
+climate mitigation. 
+15 SSP5 8.5 is a high emissions future scenario used in CMIP6 climate models and assessed in IPCC AR6. It combines 
+SSP5, a socioeconomic pathway characterized by rapid economic growth driven by fossil fuel intensive development, 
+with 8.5, an approximate radiative forcing level of 8.5 W/m²  by 2100. Together, SSP5 8.5 represents a future with 
+very high greenhouse gas emissions and strong climate forcing. 
+16 https://doi.org/10.1002/joc.8519  
+
+===== PDF PAGE 12 =====
+
+2 
+ 
+ 
+ii. Map the institutional, regulatory, and regional landscape for CIEWS . Describe the 
+mandates and interactions of regional bodies (International Fund for Saving the Aral 
+Sea (IFAS)/ Interstate Commission for Water Coordination  (ICWC), Basin Water 
+Organizations (BWOs), Scientific Information Center of the ICWC), na tional institutions 
+(Uzhydromet, Ministry of Emergency Situations (MES)/State Emergency Preventio n and 
+Response System (SEPRS), Ministry of Water Resources (MoWR), Ministry of Agriculture 
+(MoA) and others), sub-national actors (local authorities, khokimiyats) and last -mile 
+providers (Water Supply Service (WSS), Water User Associations (WUAs), farm 
+enterprises), within the current legal and policy framework. 
+ 
+iii. Document the existing CIEWS and water–agriculture digital ecosystem. Analyze how 
+climate and hydrometeorological information is generated, shared and used in practice — 
+including observation networks, forecasting chains, warning and response procedures, 
+and key digital platforms (Suv hisobi, State Water Cadastre, Agroplatforma/CropAgro and 
+related tools) — and trace decision pathways “from forecast to abstraction” and farm-level 
+management. 
+ 
+iv. Identify gaps and propose a phased roadmap for strengthening CIEWS.  Identify 
+institutional, technical, data-governance and last-mile gaps that prevent CIEWS fro m 
+operating as a fully impact-based “forecast-to-action” system. Propose priority measures 
+and a phased roadmap to improve coordination, trigger matrices, digital integr ation, 
+network coverage, and inclusive risk communication, building on ongoing reforms and 
+projects. 
+ 
+4. The objectives are designed to generate a coherent, decision-oriented overview of 
+Uzbekistan’s climate-risk profile, institutional architecture, and digital assets for CIEWS, ultimately 
+converting this analysis into a practical, phased roadmap for implementation. By aligning climate 
+information, water –agriculture governance, and emergency management within a single 
+“forecast-to-field” framework, the report seeks to provide government and partners with a clear 
+basis for prioritizing investments, strengthening mandates and data-sharing arr angements, and 
+embedding climate-informed early warning and response in everyday operational practice. 
+ 
+  
+
+===== PDF PAGE 13 =====
+
+3 
+ 
+II. Country Climate Risk Context 
+ 
+5. Uzbekistan is a lower-middle income, landlocked country located in the hea rt of Central 
+Asia. Approximately 78.8% of its territory consists of plains, with almost 80% char acterized by 
+flat, desert topography and 70% lying in the arid zone. While earlier assessments ranked 
+Uzbekistan 24 th in global natural disaster hotspots, recent evaluations show the country faces 
+significant climate risks with natural disasters affecting approximately 1.4 million people annually 
+and causing nearly USD3 billion in losses.17 Although the country has developed its first National 
+Framework for Hydrometeorological and Climate Services and submitted its inaugural Biennial 
+Transparency Report under the Paris Agreement in December 2024, challenges remain in 
+harmonizing early warning systems and achieving full coverage across vulnerable areas. 
+ 
+A. Impact of Climate Change 
+ 
+6. Indicated below are synthesized findings reported in Uzbekistan’s Fourth National 
+Communication under the UNFCCC, 18 which compiles Uzhydromet’s long -term observations, 
+national disaster statistics, and sectoral assessments. Quantitative values are drawn directly from 
+the report, and its underlying station-level and model-based datasets. 
+ 
+a. Temperature and precipitation.  Uzhydromet’s analysis for 1950– 2019 indicates a 
+statistically significant rise in average annual air temperature throughout most  of 
+Uzbekistan. Warming rates are estimated at approximately 0.2 –0.4°C per decade, with 
+Karakalpakstan and other lowland desert regions exhibiting the most pronounced trends. 
+Mountain areas warm more slowly but still show clear upward trends. Overall annu al 
+precipitation shows no strong countrywide trend, but regional patterns are diverging, with 
+slight increases in the north (Ustyurt and Aral Sea area) and declines in several southern 
+and central regions. These changes already influence water availability, snow regimes, 
+and runoff timing. Detailed station-level results are provided in Annex II (Table 1). 
+ 
+b. Heat stress and health. Rising heat is a major emerging risk. Prolonged heat waves and 
+very hot days have become more frequent, especially in lowland regions and major cities 
+such as Tashkent. National assessments show that circulatory diseases dominate 
+mortality, and heat events further elevate all-cause mortality above seasonal baselines. 
+Analyses using biometeorological indices (Humidex and Apparent Temperature) indicate 
+a shift from “moderate” summer discomfort in the mid-20th century to severe or dangerous 
+conditions in many lowland districts, particularly near irrigated zones and reservoirs. The 
+most vulnerable groups include older adults, infants, and young children, people wi th 
+cardio-respiratory diseases, outdoor workers, and residents of dense urban areas. Annex 
+II summarizes the underlying health statistics and the Humidex/AT diagnostics. 
+ 
+c. Floods, mudflows, and landslides.  Uzbekistan faces increasing hydrometeorological 
+extremes, especially floods, mudflows, and landslides in mountainous and foothill zones. 
+Debris flows (“sel”) in steep channels can reach high velocities and carry large boulder s, 
+damaging infrastructure, cropland, and transport corridors within minutes. Nat ional 
+inventories identify hundreds of active torrent catchments and close to a thousand 
+exposed economic and social assets. Most events occur in spring to early summer and 
+are triggered by intense rainfall, rapid snowmelt, accelerated glacier melt, and in some  
+ 
+17 https://blogs.worldbank.org/en/climatechange/uzbekistan-policy-dialogue-builds-momentum-transition-green-
+economy? 
+18 https://unfccc.int/sites/default/files/resource/4NC_Uzbekistan_ENG_14%2010_SEC.pdf? 
+
+===== PDF PAGE 14 =====
+
+4 
+ 
+cases, earthquake-induced slope failures. Recorded incidents have increased in recent 
+years, with eastern and southern regions (e.g., Surkhandarya, Fergana Valley, Tashkent 
+region) most affected. These patterns are consistent with emerging climate signals an d 
+are summarized in Annex II. 
+ 
+7. Climate change also interacts with underlying vulnerabilities such as degradation in the 
+Aral Sea region and water scarcity to drive displacement, loss of livelihoods,  and pressure on 
+social infrastructure. The entire population of over 37 million remains exposed, with droughts and 
+multi-hazard events becoming more frequent and complex. 
+ 
+B. Projections and Scenarios 
+ 
+8. Uzbekistan’s Fourth National Communication uses a 16 -model CMIP5 ensemble 
+(RCP2.6/4.5/8.5)19 refined to station scale to assess climate projections. Model performance i s 
+high for temperature and acceptable for precipitation. Detailed station-level statistics and scenario 
+plots are provided in Annex II. 
+ 
+a. Temperature.  All scenarios show robust warming. By late century (2080 –2099), annual 
+mean temperature is projected to increase by about +1.3°C under RCP2.6, ~+2.5 –3°C 
+under RCP4.5, and up to ~+5°C under RCP8.5 relative to 1986 –2005. Warming is the 
+strongest in summer and in lowland deserts (e.g., Karakalpakstan, desert parts of Navoi), 
+with smaller but still significant increases in mountain zones. Near-ter m summer 
+anomalies are already on the order of +1–2°C and intensify in high-emission scenarios. 
+ 
+b. Precipitation and snow.  Annual precipitation changes are modest (generally within 
+±5%), but seasonal shifts are substantial. In key runoff-formation zones of the Syr Darya 
+and Amu Darya, winter and spring precipitation tend to increase while summer 
+precipitation declines, leading to more water in the cool season and higher drought risk in 
+summer. In mountain basins (e.g., Chirchik –Ahangaran), warming shortens the frost 
+season and reduces snow cover duration, contributing to earlier snowmelt and changes 
+in runoff timing. 
+ 
+c. Water management.  These projections imply higher summer heat stress and irrigation 
+demand, increased intra-annual variability of water supply, and higher probabilities of 
+droughts, flash floods, and debris flows. They underscore the need to integrate climate -
+informed design values into storage, conveyance, and flood-protection infrastructure, and 
+to strengthen observation networks and seasonal planning. Full scenario details (tim e 
+slices, regional breakdowns, and figures) are provided in Annex II. 
+ 
+9. Uzbekistan has maintained robust economic growth (GDP of about USD115 billi on in 
+2024, with annual growth of around 6.5%)20 while gradually shifting toward a greener development 
+model. The Uzbekistan-2030 Strategy and the Strategy for Transition to a Green Economy (2019–
+2030) set targets for expanding renewable energy to at least 40% of electricity sup ply, 
+ 
+19 RCP2.6, RCP4.5, and RCP8.5 are Representative Concentration Pathways (RC Ps) are standardized climate 
+scenarios used in CMIP5 and assessed by the IPCC to represent different possible levels of future greenhouse‑gas 
+concentrations. The numbers 2.6, 4.5, and 8.5 refer to the amou nt of radiative forcing (extra energy trapped in the 
+Earth system) in the year 2100, measured in watts per square meter (W/m²) relative to pre‑industrial levels. 
+20 https://www.worldbank.org/en/country/uzbekistan/overview? 
+
+===== PDF PAGE 15 =====
+
+5 
+ 
+modernizing irrigation across 4.3 million hectares, scaling climate-smart agricultur e, and 
+increasing forest cover.21 
+ 
+10. Institutional reforms have positioned the NCECC as the central authority f or climate and 
+environmental policy, supported by specialized agencies for hydrometeorology, forestr y, waste 
+management, and climate research. With support from the Green Climate Fund (GCF) and other 
+partners, Uzbekistan is upgrading its hydro-meteorological observation network,  data 
+management systems, and multi-hazard early warning services. A flagship GCF (USD9.9 million) 
+and Adaptation Fund (USD10 million) project are modernizing critical mon itoring infrastructure 
+and promoting the integration of climate information into planning and sectoral decision-making. 
+ 
+11. The updated Nationally Determined Contribution (NDC) commits to reducing Gree nhouse 
+Gas (GHG) emissions per unit of GDP by 50% by 2035, 22 supported by high-level national 
+programs and expanding international partnerships. The designation of 2025 as the “Year o f 
+Environmental Protection and Green Economy” further signals national priority for climate -
+resilient, low-carbon development. 
+ 
+12. Despite these reforms, significant gaps remain in sensor coverage, data interope rability, 
+sustainable operation and maintenance (O&M) funding, local capacities, and inclusive w arning 
+delivery (see Gaps & Challenges section). 
+  
+ 
+21 https://lex.uz/docs/6600404 
+22 https://unfccc.int/sites/default/files/2025-11/Uzbekistan%20Third%20NDC.pdf 
+ 
+
+===== PDF PAGE 16 =====
+
+6 
+ 
+III. CIEWS STAKEHOLDERS AND Institutional Landscape 
+ 
+A. Regional Coordination for Water Resources in Central Asia 
+ 
+13. Central Asia faces accelerating climate risks that no country can manage alon e. Regional 
+cooperation therefore hinges on a complementary ecosystem of platforms. The Central Asia 
+Regional Economic Cooperation (CAREC) Program serves as the main coordination chann el, 
+aligning policies and investments around its 2025–2027 Climate Change Action Plan. This covers 
+climate-risk preparedness and health, water –energy–food nexus, low-carbon growth, and a 
+shared regional climate platform. The International Fund for Saving the Aral Sea (IFAS), created 
+by five Central Asian states in 1993, provides the interstate framework for transboundary water 
+governance and climate adaptation in the Aral Sea basin. The Regional Environmental Centre for 
+Central Asia complements these efforts as an independent convener, linking go vernments, 
+NGOs, and stakeholders to translate evidence and dialogue into practical actions for 
+environmental sustainability. These initiatives jointly: 
+ 
+i. coordinate regional policy, standards, and project pipelines for adaptation and mitigation; 
+ii. tackle transboundary water and climate risks through shared governance and joint 
+planning; 
+iii. mobilize finance and partnerships for low-carbon, climate-resilient growth; and 
+iv. Build common knowledge base —data, assessments, and capacity for risk-informed 
+decisions. 
+ 
+14. This architecture enables Central Asia to speak with a stronger regional voice, scale wha t 
+works across borders, and connect local priorities to global climate processes. Because cl imate 
+impacts in Central Asia are mediated largely through water —affecting energy, agriculture, and 
+health, transboundary water governance is the most mature expression of regional cooperation. 
+ 
+Figure 1: The Organizational Setup of IFAS23 
+ 
+ 
+ 
+Source: International Fund for Saving the Aral Sea 
+ 
+23 http://www.icwc-aral.uz/ifas.htm 
+
+
+===== PDF PAGE 17 =====
+
+7 
+ 
+15. Regional coordination on water resources in Central Asia operates through a sophi sticated 
+institutional framework anchored by the International Fund for Saving the Aral Sea (IFAS) and its 
+subsidiary bodies as described in Figure 1. The Interstate Commission for Water Coor dination 
+(ICWC) has functioned as the primary regional water management body since  its establishment 
+through the Almaty Agreement of February 1992. The ICWC comprises heads of national w ater 
+agencies from all five Central Asian states and operates on rotational chairman ship every five 
+years, with decisions requiring unanimous consensus and carrying binding obligations for all 
+member countries. The commission's operational structure includes five executive bodies: Basin 
+Water Organizations (BWO) for Amu Darya and Syr Darya rivers, the Scientific-I nformation 
+Center (SIC ICWC), a dedicated Secretariat, and the Central Metrological Commission. 
+ 
+16. Annual water distribution processes follow a systematic approach. National 
+hydrometeorological agencies prepare seasonal water availability forecasts, 24 which are then 
+consolidated by the National Information Center of ICWC (NIC ICWC) – serving as the regional 
+coordination and technical body responsible for collecting, analyzing, and disseminating wate r-
+related data across the basin. Through quarterly meetings, countries negotiate annual w ater 
+requirements based on these technical assessments, with formal allocations approved at annual 
+IFAS and ICWC sessions and documented through official protocols available through the ICWC 
+bulletin system.
+25 During drought years, the framework enables coordinated emergency 
+responses including presidential decrees mandating water-saving measures and reservoir 
+management adjustments, while wet years allow for strategic reservoir repleni shment and 
+downstream water transfers.  
+ 
+Figure 2: Water Resources of the Aral Sea Basin26 
+ 
+ 
+ 
+Source: ZoeEnvironmentNetwork 
+ 
+24 http://sic.icwc-aral.uz/analytical-reports_e.htm 
+25 http://www.icwc-aral.uz/icwc_bulletins.htm 
+26 Water resources of the Aral Sea Basin - Source: ZoeEnvironmentNetwork, December 2010 < http://www.cawater-
+info.net/aral/index_e.htm> 
+
+
+===== PDF PAGE 18 =====
+
+8 
+ 
+ 
+17. The framework in Figure 1 is supported by continuous data sharing through platforms like 
+CAWater-Info. Regular technical consultations represent a comprehensive example of 
+transboundary water cooperation, managing the complex hydro politics of shared river sys tems 
+seen in Figure 2, serving over 75 million people across the Aral Sea Basin. In Uzbekistan, this 
+framework is further strengthened by the newly established and fully operational ‘Center for  
+Digitization’ of Water Resources under the MoWR. This institutionalizes end-to-end digital 
+workflows for data capture, integration, and visualization to support planning and allocation. The 
+Center for Digitization coordinate responses to shared challenges through digital  platforms, 
+including glacial retreat in mountainous areas, transboundary flood risks, and wa ter scarcity 
+affecting the entire Amu Darya and Syr Darya river basins. 
+ 
+B. National Institutional Arrangements 
+ 
+18. Control of water resources in the Republic of Uzbekistan is implemented through a tiered 
+system of regulation, planning, and enforcement established by Cabinet Resolution No . 82 27 
+(2013, as amended). The MoWR and the Ministry of Mining Industry and Geo logy for surface 
+waters and groundwater respectively serve as competent authorities. These ministries set annual 
+and seasonal abstraction limits prioritizing drinking, medical, and municipal need s based on 
+hydrological forecasts from the Uzhydromet.  
+ 
+19. The Ministry of Water Resources (MoWR) is responsible for reservoir and canal 
+operations and dam safety actions before and during floods such as pre-emptive drawdowns per 
+rule curves, gated releases, 24/7 patrols of critical structures, debris management, and r apid 
+reporting of levels/flows to MES. Operational triggers are executed under approved SOPs and 
+based on Uzhydromet forecasts and observed hydrology. 
+ 
+20. The Ministry of Emergency Situations (MES) leads public warning, incident com mand, 
+evacuations, road closures, and life-safety responses for floods, flash floods, and mudflows. The 
+ministry also leads coordination with line ministries and local authorities. The division between 
+the two ministries ensures Uzhydromet forecasts are translated into operational measures by the 
+MoWR while emergency protection of people and assets is directed by the MES. 
+ 
+21. The Center of Hydrometeorological Service of the Republic of Uzbekistan (Uzhydromet ) 
+is Uzbekistan’s national authority for monitoring, forecasting, and issuing early warnings on 
+meteorological and hydrological hazards. It also operates the national air-quality m onitoring 
+network and avalanche services. UzHydromet issues watches and warnings for heavy rainfall , 
+strong winds, dust/sandstorms, heat and cold waves, thunderstorms, hail, snow, fog, floods, flash 
+floods, mudflows, landslides, hydrological drought, and avalanche risk. In addition,  it supplies 
+authoritative data and alerts to the State Emergency Prevention and Response System (SEPRS) 
+led by the MES. Uzhydromet also serves as a World Meteorological Organization (WMO) regional 
+hub for data exchange. 
+ 
+  
+ 
+27 https://lex.uz/docs/2145599 
+
+===== PDF PAGE 19 =====
+
+9 
+ 
+Figure 3. Water Resources Distribution Scheme28  
+ 
+ 
+ 
+Source: The diagram is according to regulations in the Republic of Uzbekistan. 
+ 
+22. In Figure 3, Uzhydromet produces seasonal water availability forecasts that, together wit h 
+observed flows, frame the interstate picture in which ICWC approves seasonal withdrawal limits, 
+including reservoir operation regimes for the Amu Darya and Syr Darya. O n the other hand, the 
+BWOs act as the implementing organization, while the SIC ICWC compiles a  ten-day water 
+balance bulletin.  
+  
+23. MoWR and MoA mostly rely on Uzhydromet for climate baselines and forecasts. The 
+ministries do not operate an independent National Water Policy or seasonal cli mate models. 
+Instead, they consume Uzhydromet’s agrometeorological and hydrological guidance to inform 
+crop-water planning, rotations, and allocation decisions. Where needed, operational planning is 
+complemented by normative ET ₀/Kc tables and sector standards within Digital 
+Agriculture/CropAgro and Suv hisobi. 
+ 
+24. For short-fuse hazards in steep terrain, Uzhydromet issues radar-assisted 0 –6-hour 
+convective nowcasts (10-minute refresh rate where radar exists), short-range hazardous-weather 
+ 
+28 The diagram is according to regulations in the Republic of Uzbekistan. Uzhydromet - is part of the National Committee 
+of Ecology and Climate Change. 
+
+
+===== PDF PAGE 20 =====
+
+10 
+ 
+advisories (≈12–36 hours) specifying rainfall/wind windows and named terrain corridors, flash-
+flood/sel risk maps that fuse forecast precipitation with soil-moisture, snowmelt and slope 
+thresholds, and adjunct avalanche bulletins for mountain passes. Riverine flood services include 
+gauge-specific stage/discharge forecasts with advisory/watch/warning bands at 1 –3-day lead 
+time, reservoir inflow/outflow advisories to support protective drawdowns, and consolidated  
+situation statements for the next 24 –48 hours. Drought services comprise decadal hydrological 
+and agrometeorological bulletins (flows versus normals, vegetation/soil-moisture, ET highlights), 
+rolling 1–3-month water-availability outlooks with temperature/precipitation anomaly maps and 
+narrative risks. Heat-risk and irrigation advisories translate forecast heat load (Humidex/Apparent-
+T) and ET demand into crop-water requirement tables (ET₀×Kc) used by extension and WSS. 
+ 
+25. In  2024, the Uzhydromet system reached 83% coverage by automated observation  
+networks. This consists of 113 meteorological stations, 93 hydrological observation points, 93 
+agrometeorological posts, 23 ambient air-pollution monitoring points (including 7 in Tashkent), 
+and 6 avalanche stations equipped with automatic instruments as depicted in Figure 4. The 
+meteorological radar network was expanded to six units, with real-time data integrated into the 
+agency’s geo-information portals (monitoring.meteo.uz and data.meteo.uz) with a refresh rate of 
+10 minutes. The number of stations exchanging daily weather data with the WMO database 
+increased from 39 to 79. 
+ 
+26. In addition, 11 categories of factual air-quality and hydrometeorological data, as well as 
+hazardous hydrometeorological forecasts, are now being updated every three hours on 
+Uzhydromet’s official website and on the Republic of Uzbekistan’s Open Data Portal. 
+ 
+Figure 4. Uzhydromet’s Network of Meteorological Stations in Uzbekistan29  
+ 
+ 
+ 
+Source: Agency of Hydrometeorology of Uzbekistan 
+ 
+29 Network of meteorological stations of Uzhydromet in the Republic of Uzbekistan. The map is as of end of year 2022. 
+
+
+===== PDF PAGE 21 =====
+
+11 
+ 
+ 
+27. All meteorological observation stations currently operate on a standardized three-hour 
+cycle—eight observations per day and synchronized to Greenwich time (UTC+5). The system is 
+fully instituted to ensure regular, consistent updates across the national network. 
+ 
+28. Uzhydromet runs the COSMO –Central Asia limited-area model (regional ~6 km with a 
+nested national ~2.2 km domain) as a regional center. Products are being  published on 
+ca.meteo.uz and shared with National Meteorological and Hydrological Services. Moreover,  
+Uzbekistan also participated in the World Bank/ Deutscher Wetterdienst pilots of IC ON-in-the-
+Cloud (ICONIC) as a pathway to ICON-based operations. For hydro-hazards, forecasters use the 
+Central Asia Regional Flash Flood Guidance System (CARFFGS) and related tools (e.g., DWAT 
+training under CAHMP) and regional MODSNOW snow products for runoff/snowmelt guidance. 
+ 
+29. In December 2024, the United Nations Development Programme (UNDP) and 
+Uzhydromet publicly announced that Uzbekistan had developed its first National Framework for 
+Hydrometeorological and Climate Services (NFCS).30 The country began developing this in 2024 
+to modernize Uzh ydromet’s service delivery and data -sharing across ministries. Proposals in 
+2025 continue to improve the NFCS by establishing a coordinated climate-services framework for 
+priority sectors.  
+ 
+30. Gaps repeatedly flagged in assessments include: (i) institutional coordination and 
+frameworks for warning/service delivery; (ii) performance/operational reliability of  regional water 
+policies and regional specialized meteorological center functions pending full  transition; (iii) 
+duplication/fragmentation of sectoral, especially agricultural climate services; and (iv) 
+sustainability of O&M, information technology and communications.
+31 
+ 
+31. Within Uzbekistan, the MoWR translates these interstate constraints and national 
+forecasts into basin- and canal- level distribution plans. This process is being  reinforced by new 
+digitization measures—a 13 October 2025 decree32 launching the State Water Cadastre and the 
+“Suv hisobi” platform for metering, accounting, and e-notifications, as well as a Center for Water 
+Management Digitalization to analyze balances, pumping and consumption. Field-level 
+abstraction and compliance are increasingly validated with satellite-driven geographic information 
+system (GIS) operated by the Uzbekspace Agency and the Center for Space Monitorin g & GIS 
+Technologies. For planning and drought/deficit scenarios, agencies and projects use decisi on-
+support models —most commonly water evaluation and adaptation planning (WEAP) hydro-
+economic allocation models for Amu/Syr basins —and ICWC’s “E -rules” software to formalize 
+intra-annual operational rules on the Amu Darya. 
+ 
+32. BWOs operationalize these limits across canals and schemes, while the state WSS  
+consolidates farm-level water-use plans. Abstraction requires: (i) a contract wi th the operating 
+entity; (ii) a special water-use/consumption permit where applicable; (iii) a registered passport for 
+each intake point; and (iv) certified metering and control devices; withdrawals are scheduled via 
+written applications at least ten days in advance.  
+ 
+33. Compliance oversight is carried out by the State Inspection for the Safety  of Water 
+Facilities and Water Use under the MoWR. This is done together with the NCE EC for natural 
+ 
+30 https://www.undp.org/uzbekistan/press-releases/uzbekistan-develops-its-first-national-framework-
+hydrometeorological-and-climate-services 
+31 https://hydromet.uz/uz/node/17 
+32 https://lex.uz/uz/docs/7775508 
+
+===== PDF PAGE 22 =====
+
+12 
+ 
+water bodies, which inspects dams and hydraulic structures, verifies metering and reporting, and 
+imposes administrative sanctions (including escalated penalties for repeat violations), and 
+suspension or dismantling of unauthorized intakes as shown in Figure 3. Monitoring, accounting, 
+and reporting follow Cabinet-approved formats, with ex-post reconciliation of limits to actual 
+hydrological conditions. Use of transboundary waters is governed by international treati es and 
+ICWC protocols, with national law applying where treaties are silent. 
+ 
+Box 1: Water Use Regulations 
+ 
+All issues related to water use in the Republic of Uzbekistan are regulated by the Resolution of 
+the Cabinet of Ministers of the Republic of Uzbekistan “On Approval of the Regulations on the 
+Procedure of Water Use and Water Consumption in the Republic of U zbekistan” (PKM - 82-
+dated 19.03.2013).33 
+ 
+Distribution of water to farmers is performed by WSS organizations. It is regulated by Resolution 
+of the Cabinet of Ministers of the Republic of Uzbekistan “On Measures to Organi ze the 
+Activities of State Institutions Water Supply Service" (PKM - 79 dated 09.02.2024).34 WSSs are 
+district/city-level state institutions under the MoWR. They are independent of local executive 
+bodies, and they report within the MoWR structure. Their heads are appointed within the MoWR 
+system. WSSs are natural field-level operators and data providers at the “last mile” for basins. 
+ 
+34. The State Emergency Prevention and Response System (SEPRS) establishes the 
+institutional framework, roles, and responsibilities for emergency monitoring, f orecasting, 
+prevention, early warning, and response activities, with early warning systems comprising a core 
+component of SEPRS operations. The MES serves as the leading government agency 
+responsible for overall management, coordination, and oversight of the SEPRS framework
+ 35 36. 
+ 
+Figure 5. Response System Scheme of the Republic of Uzbekistan 
+ 
+ 
+ 
+Source: The diagram is according to regulations in the Republic of Uzbekistan. 
+ 
+33 https://lex.uz/ru/docs/2145599 
+34 https://lex.uz/ru/docs/7424896 
+35 https://lex.uz/uz/docs/6448083 
+36 https://www.lex.uz/en/docs/6161251 
+
+
+===== PDF PAGE 23 =====
+
+13 
+ 
+ 
+35. When hydrometeorological extreme events pose potential risks,  Uzhydromet transmits 
+warnings to MES and other relevant government agencies responsible for emergency decision -
+making, following established information flow protocols between government entit ies. MES 
+coordinates the dissemination of warnings to the general population and implements appropriate 
+disaster response measures. Government agencies receive advance notifications regarding 
+potential severe weather phenomena, including storms, mudflows, and avalanches that may 
+impact transportation networks and critical infrastructure. For drought condi tions and water 
+scarcity risks, the MoA and MoWR issue relevant warnings. 
+ 
+36. Early warnings flow via the established channel of Uzhydromet → MES → line -
+ministry/public. Beyond generic alerts, sector-tailored briefs are issued ad hoc.  Uzhydromet 
+provides technical content while MES adds protective guidance and operational instructions —
+most often for heat-related advisories and specific infrastructure risks. A standing schedul e of 
+sector bulletins is not yet institutionalized. When risks escalate, MES convenes inter-agen cy 
+coordination and disseminates tailored updates. At the last mile, farmers receive infor mation 
+through national TV/radio/SMS, official web/social channels, and district khokimiyat m essaging. 
+Critically, MoWR’s WSS and WUAs translate advisories into rotation schedules, delivery 
+timetables, and practical instructions. Where mobile coverage is weak, authorities use local radio, 
+sirens/PA systems, and roadside signage in hazard corridors. Agro-advisories and water  
+constraints also surface in Agroplatforma/CropAgro. Inclusivity is being improved via ongoing 
+expansion of USSD (Unstructured Supplementary Service Data) / IVR (Interactive Voice 
+Response) messaging, bilingual/plain-language formats, and pictograms. 
+ 
+37. Public warning dissemination utilizes multiple channels. This includes televisi on, radio, 
+print media, and SMS messaging services, accompanied by risk-specific guidance and protective 
+recommendations for events such as heat waves, avalanches, and mudflows. During mudflow 
+and avalanche events, warnings are distributed to all government entities responsibl e for road 
+infrastructure maintenance and recreational facility operations. 
+ 
+38. There is consistent demand from sectoral ministries for tailored climate and risk 
+information, especially during project development and regulatory clearance. Requests t ypically 
+seek localized thresholds, operational triggers, and compliance-ready documentation. For the 
+private sector, tailored risk information is generally mandatory as part of per mitting and due-
+diligence processes. The forthcoming NFCS is expected to formalize service levels (cadence, 
+formats, and responsibilities) for such tailored products. 
+ 
+39. Under the SEPRS framework, MES has the authority to convene inter-institut ional 
+representatives to assess current risk conditions and provide feedback. In practice , these 
+coordination meetings and sectoral risk assessments are ad hoc and incident-driven, occurring 
+mainly when risk levels are elevated or during active emergencies. MES ingests Uzhydromet 
+warnings and inputs from the MoWR and uses its own monitoring network for situation al 
+awareness, maintaining situation reports and event logs. However, the absence of a  unified, 
+continuously updated multi-hazard risk dashboard and routine “watch/risk” matrices (e.g., monthly 
+sector-specific outlooks) limits the system’s capacity to identify and manage interconnected risks. 
+Establishing such a platform and a fixed issuance cadence remains a development priority. 
+ 
+
+===== PDF PAGE 24 =====
+
+14 
+ 
+IV. Existing Systems & Ongoing Projects 
+ 
+A. Water –Agriculture Digital Ecosystem in Uzbekistan  
+ 
+38. This section synthesizes field-derived insights on digital platforms, last-mile w ater 
+management, and forward planning. The analysis draws from consultations with the foll owing, 
+including specialists from the regional offices of the NCECC and the Farmers’ Council in Fergana, 
+Andijan, and Namangan. 
+ 
+• Odiljon Babakhanov, Head of Department, Namangan Regional Department of Agriculture  
+• Karimjon Jaylanov and Zumradkhon Bek Jaylanova, farm enterprise in the Namangan 
+Region  
+• Nozimjon Uzoqov, Director, Namangan Regional Forestry Department  
+• Sukhrob Yulchiev, Specialist, Pop District Specialized State Forestry Ent erprise 
+• Jurabek Saymatov, Head of Department, “Sirdaryo–Sokh” Basin Irrigation System 
+Authority 
+• Bahrom Sultonov, Deputy Head, Fergana Regional Department of Agriculture  
+ 
+39. Ongoing efforts and existing platforms . Uzbekistan is building a single, data-driven 
+chain that links the water and agriculture sectors—planning crops, allocating and metering water, 
+and routing finance and compliance through shared geospatial data. The legal backbone is 
+Presidential Decree PD-183
+37 “On measures to further accelerate the digitalization process and 
+sustainable development of the water sector,” signed 13 October 2025 (published in the National 
+Legal Database on 15 October 2025). This mandates full digital water accounting, 
+satellite/normative fallbacks, pump-meter integration by 1 May 2026, and a State Water Cadastre 
+by 1 April 2026. It is paired with Cabinet Resolution No. 330 “On additional measures to introduce 
+advanced digital tec hnologies in agriculture,” adopted 3 August 2023, approving the 
+Agroplatforma/CropAgro regulation, later amended on 22 April 2024, 10 May 2024, and 15 August 
+2025. Together, these acts operationalize an annual May to September cycle for water-informed 
+crop placement, electronic water-use acts, and end-to-end digital lending, enabling rational crop 
+rotation and higher water productivity. 
+ 
+40. Integration architecture and data flows.  At the core is a two-way integration between 
+the MoWR’s “Suv hisobi” system and the MoA’s  “Digital Agriculture/Agroplatforma” stack 
+(including CropAgro). PD-183 orders this integration so that parcel-level data,  including field 
+boundaries, crop type, coordinates and contour numbers, flows automatically from Digital 
+Agriculture to Suv hisobi. Conversely, water-side data feeds back into agricult ure. According to 
+Cabinet Resolution No. 330, the Water Ministry must annually publish meliorati ve status and 
+feasible water supply capacity by contour into CropAgro to guide the siting of crops. Land, rights 
+and contour geometry come via the Cadastre Agency. Market demand, normative yields (bonitet-
+based) and minimum producer prices inform finance and risk parameters inside Agroplatforma. 
+ 
+41. When meters are absent or unusable, PD-183 authorizes two fallback methods t o quantify 
+consumption for accounting and taxation: (i) state satellite monitoring of irri gated parcels or (ii) 
+crop- and area-based normative consumption drawn from the Digital Agriculture platform. For 
+household plots and dehkan farms, consumption is derived from irrigation norm s by crop and 
+green-space watering norms. Pump- station electricity meters are integrated into the “ Pump 
+stations” system and must be fully online by 1 May 2026, with defective units repl aced. Anti-
+ 
+37 https://lex.uz/uz/docs/775508 
+
+===== PDF PAGE 25 =====
+
+15 
+ 
+tampering oversight is assigned to supervisory bodies. Per PD-183, a national State Wa ter 
+Cadastre information system federating surface water, groundwater, water use, and 
+drinking/wastewater must be built by 1 April 2026. Operational situational awareness is provided 
+by the launched Water Sector Situation Center, alongside “Suv hisobi”, “ Pump stations”, “Drip 
+irrigation”, “Smart water” and the unified “Digital water farm” platform. 
+ 
+42. Planned annual process (from forecast to abstraction and finance).  Each year the 
+water-agriculture cycle proceeds as follows and without duplicative paperwork.  
+ 
+• By 1 May, MoWR will upload melioration and supply feasibility data to Crop Agro. 
+• By 1 July, farmers and clusters will submit crop-placement proposals through CropAgro.    
+• District agriculture, irrigation units, soil institutes and farmer council s review and digitally 
+validate contour-level crop maps.  
+• “UzDavErLoyiha” compiles and posts contour allocations in CropAgro.  
+• Within 5 working days, district khokim decisions are issued through E-qaror and then 
+consolidated provincially by 20 August. 
+• By 10 September, the MoA will publish next year’s crop map and projections  on  
+https://agroplatforma.uz/ and regional geoportals. 
+ 
+43. On the water-delivery side, “Suv hisobi” generates a bilateral electronic act for each legal 
+water user. Users have 10 days to review and either e-sign or lodge a document ed objection. 
+According to PD-183, if they neither sign nor substantiate an objection within the system, the act 
+is deemed agreed. Notifications are issued via SMS and the mobile app. Water abstract ed is 
+metered. If this is not feasible, satellite/normative rules apply. Pump energy data is ingested from 
+utility meters for reconciliation. 
+ 
+44. On the finance side, Agroplatforma supports end-to-end digital lending and cont racting. 
+This consists of e-applications for concessional credits, e-contracts for services and i nputs, 
+futures contracts based on approved crop placement, insurance, leasing, and monitoring of  
+deliveries and repayments —all using the same cadastral parcels and crop plan validated in 
+CropAgro per Cabinet Resolution No. 330. Banks. The State Support Fund inter acts with 
+producers through Agroplatforma. Required documents (rights to land, district confi rmations of 
+crop placement, bonitet-based normative yields, and MoA minimum price notices) are exchanged 
+electronically. 
+ 
+45. Enabling rational crop rotation and water productivity.  The integrated stack makes 
+rotation decisions water- aware by design. CropAgro’s contour -level maps are constrained by 
+MoWR’s meliorative status and water -supply feasibility, preventing expansion of high-demand 
+crops into water-stressed contours. Soil quality “bonitet”-based normative yields and crop-specific 
+irrigation norms anchor parcel- level water budgets, while Suv hisobi’s metering or 
+satellite/normative fallback verifies compliance across the season per PD-183. Because the same 
+geospatial parcels drive finance (credit limits, insurance), producers are incentivi zed to choose 
+rotations that fit both hydrological constraints and bankable productivity, and au thorities can 
+nudge rotations through minimum price notices and eligibility rules posted on Agropla tforma 
+based on Cabinet Resolution No. 330. In drought years, the Situation Center and Suv hisobi can 
+trigger contour-level adjustments and targeted water-saving measures while CropAgro updates 
+rotations or planting windows accordingly. 
+ 
+46. MoWR houses two specialized entities: the Water Digitalization & Monitoring Center  (31 
+staff) to integrate systems, standardize device specs and run the Situation Center, and the Center 
+
+===== PDF PAGE 26 =====
+
+16 
+ 
+for Sustainable Development in the Water Sector (23 staff) to drive strateg ic reforms and 
+technologies. Per PD-183, both are budget-funded and barred from unrelated tasking . A Chief 
+Digital Officer (Deputy Minister) role is created to personally steward ICT programs and PPPs in 
+the sector. 
+ 
+47. On the agriculture side, Agrosanoatni raqamlashtirish markazi (LLC) acts as  the legal 
+operator of Digital Agriculture/Agroplatforma, while UZINFOCOM is the technical operator per 
+Cabinet Resolution No.330. Operators must ensure uptime, information security,  user support, 
+logging, and long-term retention of transaction trails. E-document excha nge uses legally 
+recognized e-signatures. Based on PD-183, all water-sector information syste ms developed 
+under MoWR—including operator-enhanced products are registered as the property of MoWR 
+and recorded as intellectual property. 
+ 
+48. Targets, milestones, and KPIs. These are defined: 
+ 
+• By 2026-04-01: operational State Water Cadastre with secure inter-agency dat a exchange 
+(PD-183, V.14).  
+• By 2026-05-01: full integration of pump-station meters into Nasos stansiyalari . Non-
+reporting meters replaced and faults rectified (PD-183, V.16). 
+• Ongoing/annual: by 1 May melioration & supply data; by 1 July producer proposals; by 20 
+Aug regional consolidation; by 10 Sep national publication (No.330, Reg. §§7, 14, Annex 
+Steps 9–11). 
+ 
+49. Program-level KPIs include coverage of metered intakes; share of parcels with  validated 
+crop-water budgets; cycle time from proposal to E-qaror decision; discrepancy ra te between 
+metered vs satellite/normative consumption; and on-time issuance/acceptance of electronic acts 
+as indicated in PD-183. 
+ 
+50. Control, compliance, and dispute resolution. Disputes over delivered volumes are 
+managed inside Suv hisobi via the 10-day e-act workflow. PD-183 requires evi dence to be 
+uploaded if contesting. Anti-tampering enforcement for energy/water meters is explicitly assigned 
+to supervisory bodies with quarterly reporting to the Presidential Administration. On  
+Agroplatforma, operator obligations on data security, authenticity and retention, pl us mandatory 
+e-signatures create an auditable trail for credit, insurance and procurement operations per. When 
+inconsistencies are detected, user access can be suspended until corrected as per Cabinet 
+Resolution No. 330. 
+ 
+B. Relevant Ongoing Projects in the Republic of Uzbekistan  
+ 
+51. Uzbekistan is already implementing several complementary initiatives that directly 
+strengthen climate information services, multi-hazard early warning, and disaster risk reduction. 
+These programmes, financed by the Green Climate Fund, bilateral partners, and multilateral 
+organizations, are implemented with Uzhydromet, MES, NCECC, and the MoWR, and provide a 
+solid technical and institutional foundation for scaling up climate information and early warning 
+system (CIEWS) at the national level. 
+ 
+52. The projects listed below are not exhaustive, but they represent the most relevant cur rent 
+investments in hydrometeorological modernization, impact-based forecasting, flood and drought 
+management, and glacial-lake risk reduction. CIEWS intervention is designed to bu ild on, 
+connect, and add value to these efforts, avoiding duplication, and leveraging existing  platforms, 
+data, and capacities. 
+
+===== PDF PAGE 27 =====
+
+17 
+ 
+ 
+i. The GCF-funded Enhancing Multihazard Early Warning System Project is implement ed by 
+UNDP and executed by Uzhydromet, and Ministry of Emergency of the Republi c of 
+Uzbekistan. The project builds on seven high-risk regions in Phase I, notably the Ferghana 
+Valley. Phase I m odernized Uzbekistan’s early warning into an impact -based MHEWS for 
+floods, mudflows, landslides, avalanches and hydrological drought; introduced a Global 
+Framework for Climate Services (GFCS) “value-chain” approach with socio-economic risk 
+modeling and pilot forecast-based financing; invested in automatic hydromet monitoring and 
+satellite-supported modeling; established visualization/telecom systems at RCMCs; and 
+delivered measurable gains (≈50% longer lead times, ≈50% faster warning delivery, 
+information reach to ~32.4 million people, direct protection for >11 million, and at least ~3% 
+risk reduction). The Phase II project, with a timeline of January 2027 t o January 2034, and 
+an estimated budget of USD 20million will have a nationwide scale. It will extend coverage 
+to Andijan, Bukhara, Navoi, Surkhandarya, Khorezm and Karakalpakstan, including 
+Tashkent city and the Kamchik pass. Phase II will deploy new radars/aerological  
+stations/AWS with snow sensors, disdrometers and Doppler/electromagnetic flow gauges, 
+stand up high-performance forecasting with the ICON model, and implement a 
+Hydrometeorological Information Management System which will include dust-storm  risk. 
+Phase II will strengthen impact-based warning and RCMC capabilities; equip mobile control 
+points; expand gender-balanced training across MES and Uzhydromet; and seed 
+sustainable climate-service business models, advancing SDGs 11 and13 and the UN Early 
+Warning for All initiative against climate impacts. 
+ 
+ii. Uzbekistan, through the NCECC, MoWR, and Uzhydromet, is a co-implement ing country in 
+the regional project “Strengthening Climate Resilience through Introduction of Inn ovative 
+Smart Techniques in Flood and Drought Management in Central Asia” (2024– 2027). This 
+project amounting to USD10 million is financed by the Republic of Korea’s  Ministry of 
+Environment and implemented by the GGGI with AWC/K-Water. Starting with the flood- and 
+drought-prone Andijan region in Uzbekistan, the project blends community consultations 
+with technical surveys of hydroposts and proposed monitoring sites, feeding into baseline 
+and policy assessments. Priority actions include co-designing impact-based early  warning 
+systems, strengthening evacuation awareness and local standard operating procedures,  
+and modernizing real-time hydromet monitoring in line with Cabinet  Resolution No. 66 
+(02.02.2024). The expected results will be piloted with early warning systems, upgraded 
+observation networks, and improved cross-border data sharing with the Kyrgyz Republic to 
+better protect people, livelihoods, and infrastructure. 
+ 
+iii. GIZ’s regional programme  – Climate Risk Management in Central Asia 2022 –2026, 
+supports Kazakhstan, Kyrgyzstan, Tajikistan, Turkmenistan, and Uzbekistan. The 
+programme aims to improve transboundary climate and disaster risk management ami d 
+glacier retreats, increasing extremes, and rising flood/landslide/GLOF risks. It is w orking 
+with basin organizations, hydromet and emergency agencies, and the Center for Emergency 
+Situations and Disaster Risk Reduction as well as the National Committee of  Ecology and 
+Climate Change in Uzbekistan. The programme runs participatory climate-risk assessments 
+in five transboundary basins; helps ministries craft and implement adaptation, DRR,  and 
+water policies; and strengthens regional information exchange and early warning 
+cooperation. It also builds capacity, equips 11 partner institutions with hardware/ software, 
+and promotes civil society involvement to ensure locally tailored, socially just adaptation 
+measures. In Uzbekistan, activities include expert workshops in Tashkent and field studies 
+on transboundary rivers such as Ugam and Zeravshan to inform early warning and 
+monitoring upgrades. 
+
+===== PDF PAGE 28 =====
+
+18 
+ 
+ 
+iv. Moreover, Uzbekistan is one of four beneficiary countries in the Reducing Risks of Glacial 
+Lake Outburst Floods in Central Asia (GLOFCA) Programme financed by UNESCO’s 
+Adaptation Fund launched in April 2021.  GLOFCA aims to cut the risks from glacial- lake 
+outburst floods via hazard mapping, early warning systems, and community educa tion. In 
+Uzbekistan, the pilot area is the Pskem River basin in the Bostanlyk District, focused on the 
+villages of Pskem and Tepar. This is where the upstream lakes Ikhnach/Ikhnachkul system 
+and Shavurkool as well as expanding infrastructure/tourism raise exposure to floods, 
+landslides, and mudflow. National partners conduct lake surveys, bathymetry, and hydromet 
+monitoring. In 2025, the programme begins installing an automatic weather station, camera 
+monitoring, and temporary hydrological posts, with early warning system inst allation on 
+areas where risks escalate. Capacity-building includes school level disaster education and 
+weather monitoring activities in Pskem/Tepar, and youth field visits to Urungach Lakes. 
+Uzbekistan also hosts regional knowledge exchange events, including the first GLOFC A 
+regional workshop in Tashkent in November 2021 and the Tashkent conference on 
+innovative glacier-monitoring methods in September 2025 . UNESCO’s Tashkent Office 
+provides in-country coordination alongside the Almaty Regional Office. The detailed  
+overview of selected projects is in Annex 
+3. 
+ 
+C. Existing Gaps & Challenges 
+ 
+53. Despite major progress, the CIEWS –SEPRS chain remains partially “impact -to-action.” 
+Early warnings are timely but not yet anchored to binding, cross-ministerial trigger matrices that 
+automatically translate forecast thresholds into MoWR reservoir drawdowns, canal operations, 
+and CropAgro rotation/sowing adjustments. Sector bulletins are ad hoc (no fixed  cadence or 
+SLAs), and MES coordination is largely incident-driven, compounded by the absence of a unified, 
+continuously updated multi-hazard dashboard with shared watch –warning levels across 
+Uzhydromet, MES, MoWR and MoA. Observation and communications redundancy is uneven  
+(power/backhaul gaps, radar coverage limits), and operations and maintenance/calibration 
+budgets are not sustainably ring-fenced. Data standards and identifiers are fragmented  across 
+platforms (Suv hisobi, CropAgro, pump meter and cadastre systems), with mete ring roll-out and 
+anti-tamper enforcement still incomplete.  
+ 
+54. In the absence of meters, satellite/normative fallbacks create accuracy and disput e-
+resolution risks. Last mile conversion of alerts into farm instructions relies heavily on WSS/WUAs 
+with variable capacity, digital access, and inclusivity (languages, disability frien dly formats, 
+USSD/IVR uptake). Agricultural climate services are duplicated across actors, while capacity in 
+impact modeling, GIS, and risk communication at regional/local levels is thin, and turnover rate is 
+high. Forecast-based financing and pre-agreed contingency measures (seed/fodder pre-
+positioning, protective irrigation, labor/heat protocols) are nascent, and legal/standard operating 
+procedure linkages among PKM-82 (water use), No.330 (Agroplatforma), PD-183 (water 
+digitalization) and SEPRS procedures need tightening to embed accountabilities, audit trails, and 
+appeal pathways. Cross-border flood/drought procedures exist but are not yet fully 
+operationalized into routine joint exercises and shared, near real-time basin views. 
+ 
+D. Recommendations 
+ 
+55. Given the identified gaps and the current regulatory framework, the priority is a full 
+“forecast-to-field” modernization with the following recommendations: 
+ 
+
+===== PDF PAGE 29 =====
+
+19 
+ 
+i. Establish national, sector-specific trigger matrices (watch/alert/action) th at automatically 
+launch MoWR operational steps and update CropAgro rotation/sowing windows. 
+ii. Put sector bulletins on a fixed weekly/monthly schedule with service-level commitment s, 
+and MES convening a standing risk forum. 
+iii. Deploy a unified, real-time multi-hazard dashboard integrating Uzhydromet, Suv hi sobi, 
+pump-meter and cadastre layers. 
+iv. Complete universal metering and anti-tamper controls while standardizing parcel/i ntake 
+identifiers and data schemas across systems. 
+v. Secure dedicated lifecycle O&M funding for sensors, radar, communications and RCMCs. 
+vi. Expand inclusive last-mile channels (USSD/IVR, bilingual/plain-language/pictog rams) via 
+WSS/WUAs with targeted training. 
+vii. Embed forecast-triggered financing with pre-agreed actions for drought, heat  and floods. 
+viii. Harmonize SEPRS, RKM-82, No.330 and PD-183 to hard-wire responsibiliti es, audit trails 
+and dispute resolution.  
+ 
+56. Pilot the package in two basins with clear KPIs —lead-time utilization, share of parcels with 
+climate-informed rotations, variance between metered and normative values, bulletin timeliness, 
+and quality of after-action reviews—then scale nationwide and integrate into ICWC/BWO routines 
+for durable, climate-smart emergency response and water-aware crop planning. 
+ 
+
+===== PDF PAGE 30 =====
+
+20 
+ 
+ 
+V. References 
+ 
+Asian Development Bank (ADB). 2024 –2025. “Uzbekistan Country Climate Documents and 
+Project Papers.” https://www.adb.org/countries/uzbekistan. Accessed November 5, 2025.  
+ 
+CAREC Program. 2025. “Climate Change Action Plan 2025–2027.” 
+https://www.carecprogram.org/. Accessed November 5, 2025.  
+ 
+CAWater-Info (Aral Sea Basin Knowledge Base). 2025. http://www.cawater -info.net/. Accessed 
+November 5, 2025.  
+ 
+Deutscher Wetterdienst (DWD); World Bank. 2023–2025. “ICON in the Cloud (ICONIC) — NWP 
+Pilots for Central Asia.” Accessed November 5, 2025.  
+ 
+GIZ (Deutsche Gesellschaft für Internationale Zusammenarbeit). 2022 –2026. “Climate Risk 
+Management in Central Asia — Programme Briefs and Basin Assessments.” Accessed 
+November 5, 2025.  
+ 
+Global Green Growth Institute (GGGI); AWC; K-Water. 2024 –2027. “Strengthening Climate 
+Resilience through Innovative Smart Techniques in Flood and Drought Management in 
+Central Asia — Uzbekistan (Andijan) Pilot.” Accessed November 5, 2025.
+  
+ 
+Government of the Republic of Uzbekistan. 2013. “Resolution of the Cabinet of Ministers No. 82: 
+On Approval of the Procedure for Water Use and Water Consumption in the Republic of  
+Uzbekistan (PKM-82).” National Legal Database (lex.uz).  
+ 
+Government of the Republic of Uzbekistan. 2023 (amended 2024 –2025). “Resolution No. 330: 
+On Additional Measures to Introduce Advanced Digital Technologies in Agriculture 
+(Agroplatforma/CropAgro).” National Legal Database (lex.uz).
+  
+ 
+Government of the Republic of Uzbekistan. 2024. “Resolution of the Cabinet of Ministers No. 66: 
+On Strengthening and Modernizing the Hydrometeorological Monitoring Network.” National 
+Legal Database (lex.uz).
+  
+ 
+Government of the Republic of Uzbekistan. 2024. “Resolution of the Cabinet of Ministers No. 79: 
+On Measures to Organize the Activities of State Institutions ‘Water Sup ply Service’ (WSS).” 
+National Legal Database (lex.uz).  
+ 
+Green Climate Fund (GCF). 2025. “Uzbekistan— Country Page (Portfolio, Country 
+Programming).” https://www.greenclimate.fund/countries/uzbekistan. Accessed November 5, 
+2025.  
+ 
+International Monetary Fund (IMF). 2025. “e -GDDS/DSBB: Uzbekistan—Data Dissemination.” 
+https://dsbb.imf.org/egdds/country/UZB/category. Accessed November 5, 2025.  
+ 
+Interstate Commission for Water Coordination (ICWC). 2020 –2025. “ICWC Bulletins, Protocols, 
+and Decisions.” http://www.icwc-aral.uz/. Accessed November 5, 2025.  
+ 
+NASA/Regional partners. 2015 –2025. “MODSNOW —  Snow Cover and Runoff Guidance for 
+Central Asia.” Accessed November 5, 2025. 
+Peer-reviewed literature on CMIP5/CMIP6 projections for Central Asia. 2020 . “Köppen  shifts, 
+glacier runoff and warming signals in Amu/Syr basins.” doi:10.1002/joc.8519. Accessed  
+November 5, 2025.  
+ 
+
+===== PDF PAGE 31 =====
+
+21 
+ 
+President of the Republic of Uzbekistan. 2025. “Decree P D-183: On Measures to Further 
+Accelerate the Digitalization Process and Sustainable Development of the Water Sector.”  
+National Legal Database (lex.uz).  
+ 
+Republic of Uzbekistan Open Data Portal. 2025. data.gov.uz. Accessed November 5, 2025.  
+ 
+Republic of Uzbekistan. 2024. Fourth National Communication under the UNFCCC ( NC4). 
+UNFCCC Secretariat. Accessed November 5, 2025.  
+ 
+Republic of Uzbekistan. 2025. First Biennial Transparency Report (BTR1). UNFCCC Secretariat. 
+Accessed November 5, 2025.  
+ 
+Scientific-Information Center of ICWC (SIC ICWC). 2020–2025. “Analytical Reports and Seasonal 
+Forecasts.” http://sic.icwc-aral.uz/. Accessed November 5, 2025.  
+ 
+Statistics Agency of the Republic of Uzbekistan. 2025. “National Summary Data Page (N SDP).” 
+http://nsdp.stat.uz/. Accessed November 5, 2025.  
+ 
+Statistics Agency of the Republic of Uzbekistan. 2025. “SIAT Statistical Portal .” 
+https://siat.stat.uz/. Accessed November 5, 2025.  
+ 
+UNDP. 2018–2025. “Enhancing Multi -Hazard Early Warning System (MHEWS) in Uzbekistan 
+(SAP022) — Project Documents & Updates.” Accessed November 5, 2025.  
+ 
+UNECE. 2024. “National State of the Environment Report: Uzbekistan.” United Nations Economic 
+Commission for Europe. Accessed November 5, 2025.  
+ 
+UNESCO. 2021–2025. “GLOFCA: Reducing Risks of Glacial Lake Outburst Floods in Central 
+Asia (Adaptation Fund Programme) — Uzbekistan (Pskem Basin) Components.” Accessed 
+November 5, 2025.  
+ 
+UNFCCC. 2025. “Reports Portal—Uzbekistan (Party Submissions: NC, BUR/ BTR, NIR).” 
+https://unfccc.int/reports?f%5B0%5D=corporate_author%3A96. Accessed November 5, 
+2025.
+  
+ 
+Uzhydromet (Center of Hydrometeorological Service of the Republic of Uzbekistan). 2024–2025. 
+“Official Portals: monitoring.meteo.uz; data.meteo.uz; ca.meteo.uz (COSM O–Central Asia 
+products).” Accessed November 5, 2025.  
+ 
+WMO/World Bank. 2020 –2025. “Central Asia Regional Flash Flood Guidance System 
+(CARFFGS) — Concept Notes and User Guidance.” Accessed November 5, 2025.  
+ 
+World Meteorological Organization (WMO). 2022 –2025. “Early Warnings for All (EW4All) —  
+Global Initiative and Pillars.” https://wmo.int. Accessed November 5, 2025.  
+ 
+WUEMoCA Consortium. 2016 –2025. “Water Use Efficiency Monitoring in Central Asia 
+(WUEMoCA) — Methods and Portal.” Accessed November 5, 2025.  
+ 
+ 
+
+===== PDF PAGE 32 =====
+
+22 
+ 
+ 
+Annex 1: Aide-Mémoire of Meetings 
+ 
+A. Meeting with Centre for Implementation of Foreign Investment Project s in the Water 
+Sector (CIFIPWS) under the Ministry of Water Resources (MoWR) 
+ 
+20 October 2025 
+ 
+Meeting Participants: 
+Sevar Astanov  Acting Director, CIFIPWS  
+Mukhtor Kasimov  PIU Manager, CIFIPWS  
+Asliddin Baratov   Deputy Head of Department, CIFIPWS  
+Begzod Abzalov  PIU Engineer, CIFIPWS  
+Diyor Malikov  PIU Engineer, CIFIPWS  
+ 
+Objectives:  
+Review the status of Ayakchi and Obizarang subprojects. Confirm ways forward  on alternative 
+dam options, including cultural heritage constraints. Take stock of additional reservoir concepts, 
+and align immediate technical studies, safeguards milestones, and the indicative lending timeline. 
+ 
+Key Discussion Points: 
+1. Ayakchi subproject — Option 5 advanced. Dolsar presented the updated multi-option 
+analysis. Option 5 (upstream) was confirmed as the working basis because it avoids 
+protected cultural heritage sites flagged in Option 1 and has comparatively lower land  
+acquisition and resettlement impacts. Sensitivity analysis indicates an economically 
+feasible dam height of ~70–80 m (subject to geotechnical confirmation). It was suggested 
+to perform a more detailed geotechnical investigation, and it was agreed by 
+representatives of the center. Final site confirmation remains contingent on archaeological 
+sampling now being contracted with the Samarkand Institute of Archaeology . A Cabinet 
+decision will follow the receipt of the report. Hence, uncertainty remains  regarding site 
+selection and final confirmation, notwithstanding the President’s initial e ndorsement of 
+Option 1. 
+2. Obizarang subproject — upstream option preferred in principle. Two dam-axis options 
+were reviewed. Due to suboptimal geology and the presence of hydrogen sulfur springs  
+and a small pool at the initial site (Option 1), the meeting favored advancing feasibility for 
+the upstream site (~2 km), subject to detailed surveys. There was still a need for 
+clarification of protected-area boundaries from the National Committee on Ecology an d 
+Climate Change (NCECC), particularly the boundaries of Upper Tupolang National Nature 
+Park prior to final scoping of biodiversity surveys. 
+3. Dolsar emphasized siltation as a critical technical risk for both subprojects. It  was agreed 
+to: (i) include a comparative sediment yield and trap efficiency analysis in the fea sibility 
+study; (ii) review possibilities for an upstream nature-based solutions package (slop e 
+stabilization/green cover, check-dams/sediment traps, riparian rehabilitation)  aiming to 
+extend reservoir service life; and (iii) specify bathymetric baselines and periodic monitoring 
+in operation and management plans. 
+4. There were discussions regarding the preparation of additional project concepts f or 
+Toshtepa, Qizilsoy, Parkentsoy, and Maydonsoy reservoirs. It was agreed that MoWR 
+would provide most of the information they have. 
+5. Climate Information and Early Warning System (CIEWS) watershed & early-war ning 
+platform for reservoir management was discussed. Timur Sabitov presented the concept 
+
+===== PDF PAGE 33 =====
+
+23 
+ 
+of CIEWS focused on an integrated watershed management and early warning platform 
+to support reservoir operations (flood/drought operations, sediment inflow alerts , and 
+operational decision support). MoWR representatives expressed interest and agreed to 
+review the concept, noting ongoing digitization efforts and confirming that t his direction 
+aligns with the ministry’s current agenda. They indicated that a specialized center within 
+MoWR leads digitization work, but it has limited prior experience with such an integrated 
+platform and is not aware of an existing off-the-shelf solution in Uzbekistan. 
+  
+B. Meeting with Agency of Hydrometeorology under the National Committee on 
+Ecology and Climate Change (NCECC) and the United Nations Development Program me 
+(UNDP)
+ 
+ 
+21 October 2025 
+ 
+Meeting Participants: 
+Firuz Safarov   Advisor to the Director  
+Shavkatjon Kodirov  
+  
+Head of the Department for Studying Foreign Experience and 
+Developing Scientific Research  
+Natalya Agaltseva  Head, PMU under Uzhydromet  
+Ulugbek Dedabayev   Project Coordinator, Green Climate Fund Climate Information and 
+Early Warning System National Project  
+Aleksander Merkushkin  Project Officer/Consultant; former Head, PMU under Uzhydromet  
+ 
+Objectives:   
+Confirm collaboration modalities with Uzhydromet and UNDP on: (i) hydrometeo rological data 
+access for feasibility studies; (ii) design and integration of CIEWS to suppor t watershed and 
+reservoir management (flood/drought operations, sediment inflow alerts, and ri sk 
+communication); and (iii) alignment with the Asian Development Bank (ADB ) program schedule 
+and safeguards. 
+ 
+Key Discussion Points: 
+1. ADB outlined the Resilient Amu Darya and Syr Darya River Basin Investment Program, 
+with the first tranche targeting Ayakchi while Obizarang is proposed for a subsequent 
+tranche. Loan negotiations are tentatively scheduled in August 2026, board in Q4 of 2026, 
+and signing in November 2026. This is contingent on the feasibility study, safeguards, and 
+government clearances. Technical Assistance (TA) support by Dolsar and partners is 
+ongoing. 
+2. Uzhydromet confirmed a national network of 145 hydrological gages and ongoing 
+automation efforts. The institution expressed readiness to collaborate and requested  a 
+precise list of required variables, spatial coverage, temporal resolution, and delivery 
+formats to support the project. 
+3. Uzhydromet recalled ADB’s data request (with subsequent correspondence via the MoWR 
+and the Ministry of Economy and Finance (MOEF)) and explained that, by law,  public 
+datasets are free, while specialized/archival datasets follow an approved price list. A prior 
+quotation referenced USD1.6 million for a comprehensive archive package. MWR/MOEF 
+will pursue access through government channels for essential datasets required for t he 
+feasibility study. If core data cannot be secured, the TA team will proceed wi th 
+internationally recognized alternatives (reanalysis, correlation/infilling, ML-based 
+hydrology). Uzhydromet proposed to outsource model development and assessment from 
+Dolsar to Uzhydromet – which has full access to the dataset. 
+
+===== PDF PAGE 34 =====
+
+24 
+ 
+4. UNDP and Uzhydromet described an operational geographic information system (GIS) 
+risk platform (shared with the Ministry of Emergency Situations (MES)) t hat visualizes 
+mudflow/landslide risk, affected areas, exposed population/infrastructure, and supports 
+inter-agency decision-making and public dissemination. MicroStep provides capacity 
+building and productization support. System architecture operates across three layers —
+central, regional, and (potentially) object/site level, with room to exte nd object-level 
+capabilities for reservoirs.  
+5. The current system and platforms focus on other regions (Kashkadarya, Surkhandarya). 
+It is planned to have an operationalized system scaled nationwide in the second phase of 
+a GCF funded project in 2027. 
+6. A watershed management & early warning platform was presented to optimize reservoi r 
+operations across flood, drought, and sediment contexts as well as integrate SCADA and 
+field telemetry, and enable risk communication to local communities. Uzhyd romet and 
+UNDP expressed strong interest and agreed to review the concept, noting that it aligns 
+with ongoing digitization priorities.  
+7. Uzhydromet provided a briefer on two complementary modelling tracks: a distributed -
+parameters hydrological model and a simplified statistical streamflow model. Using 
+Singular Spectrum Analysis (SSA) and discriminant analysis on discharge series, 
+Uzhydromet reported robust forecasts with ≥6 -month lead time for drought-related 
+decision support. Outputs are planned for integration into the MES platform. ADB T A 
+requested a technical note and sample outputs for the Ayakchi/Obizarang basins. 
+8. The parties agreed to pilot CIEWS functions in Kashkadarya and Surkhandarya 
+(Ayakchi/Obizarang focus). District-level targeting will be refined jointly based on data 
+density, operational needs, and institutional readiness. 
+9. The CIEWS workstream will cover: (i) hazard monitoring/forecasting; ( ii) operational 
+decision support (rule curves, environmental flows, sediment alerts); and (iii)  risk 
+communication with communities (multi-channel alerts, roles & SOPs). This complements 
+engineering works and safeguards planning. 
+ 
+C. Meeting with Agency of Hydrometeorology under the National Committee on 
+Ecology and Climate Change (NCECC) and the United Nations Development Programme 
+(UNDP)
+ 
+ 
+23 October 2025 
+ 
+Meeting Participants: 
+Farukh Sattarov  Director, National Center for Climate Change   
+Sherzod Yusupov  Head of Department, Protected Areas  
+Ismoil Gulomov  Head of Department, Information Analytics   
+Khakimjon Aminbaev  Head of Department, Afforestation 
+Guzel Shayhislamova  Chief Specialist of International Relations Department  
+ 
+Objectives: 
+i. Review environmental/safeguards requirements for the Ayakchi and Obizarang 
+subprojects.  
+ii. Confirm any overlaps or restrictions related to Gissar State Nature Reserve and Yuko ri 
+(Upper) Tupolang National Nature Park (TNNP) and nearby KBA/IBA sites. 
+iii. Discuss nature-based solutions (NBS) for watershed management and sediment 
+reduction.  
+iv. Explore eco-flow policy needs under the Water Code. 
+v. Align digitalization/CIEWS integration and data-sharing modalities. 
+
+===== PDF PAGE 35 =====
+
+25 
+ 
+ 
+Key Discussion Points: 
+1. ADB confirmed readiness to finance preparation for Ayakchi (Kitob district;  ~5,000 ha 
+command area) and Obizarang (Surkhandarya region, near the Tajikistan border) as part 
+of the Resilient Amu Darya & Syr Darya Program. Obizarang has an existing f easibility 
+study presented at a high level while additional environmental, social, and economic due 
+diligence is underway. 
+2. NCECC welcomed the (KMZ format) files for Ayakchi and Obizarang footprints and w ill 
+verify any overlaps/zoning constraints with Gissar State Nature Reserve and Yukori/Upper 
+Tupolang National Nature Park, and adjacent KBA/IBA polygons. NCECC described 
+ongoing biodiversity monitoring across protected areas, including photo-trap deployment 
+and biannual (spring/autumn) evaluations. 
+3. NCECC reiterated that environmental expertise (EIA/SEE) is mandato ry prior to initiating 
+project works/planning. Existing procedures and guidance remain in force pending full  
+publication of implementation guidelines under the new environmental assessment law. 
+Validity periods and transitional provisions to be confirmed in writing while existing practice 
+indicates multi-year validity of final conclusions. 
+4. The parties agreed that reservoir siltation and catchment erosion must be addressed 
+through an upstream NBS package (slope stabilization, vegetative cover, check-
+dams/sediment traps, riparian restoration, grazing management), both to reduce sediment 
+inflows and to extend reservoir service life. NCECC noted available grant windows f or 
+watershed actions and invited ADB to propose pilot measures linked to feasibility study. 
+5. NCECC highlighted the absence of detailed eco-flow methodology in secondary  
+legislation and requested ADB support to develop a subsidiary regulation (method, 
+seasonal curves, compliance, & monitoring). Dolsar referenced the common “10% of 
+annual average flow” as a starting reference, but stakeholders stressed the  need for 
+seasonal/monthly patterns tied to gauging data and ecological needs (and enfor cement 
+realities, incl. hydropower). Transboundary considerations will be noted. 
+6. NCECC is developing a Climate Data Hub and operates a Situational Center with ei ght 
+digital databases. The Ministry expressed interest in co-designing an integrated CI EWS 
+for watershed/reservoir operations (flood/drought, sediment alerts, eco-flow tracking) and 
+welcomed a structured technical dialogue on interfaces with SCADA and the MES  risk 
+platform, data governance, and cybersecurity. 
+7. NCECC highlighted complementary initiatives with ACTED, Zamin Foundation (Eco-
+Maktab), CITES training (customs officers), Forestry Agency – World Bank (approximately 
+USD93 million), KOICA, and large-scale tree-planting (~500,000 trees), which can support 
+NBS and community engagement around the project areas. 
+ 
+
+===== PDF PAGE 36 =====
+
+26 
+ 
+ 
+Annex 2. Overview of Country Climate Context 
+ 
+A. Air Temperature Analysis  
+According to an analysis performed by Uzhydromet, air temperature showed that at most stations 
+in Uzbekistan, the increase in average annual air temperatures from 1950 to 2019 is statistically 
+significant. The trend increase is 1.5-2 times or higher than the natural variability. The 
+assessments showed that the highest rates of warming are recorded in Karakalpakstan (Ustyurt 
+and the Aral Sea region: 0.41 –0.43°C over 10 years), followed by the plains of the Tashkent 
+region and the Zeravshan Valley (0.36 and 0.32°C over 10 years). In the southern part of 
+Uzbekistan (Surkhandarya region), the warming rate is lower (0.21°C for 10 years), and the lowest 
+was recorded in the mountain zone (0.12–0.18°C for 10 years) (Table 1). 
+ 
+Table 1: Air Temperature Analysis Results for 50 Meteorological Stations in Uzbekistan 
+ 
+ 
+Source: Uzhydromet 
+ 
+B. Precipitation  
+From 1950 to 2019, Uzbekistan’s overall annual precipitation shows no clear long -term trend. 
+Regionally, there’s a slight increase in the north (Ustyurt and the Aral Sea area), while most other 
+regions exhibit declines —most notably in Kashkadarya. All observed changes remain within 
+natural variability. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+===== PDF PAGE 37 =====
+
+27 
+ 
+Figure A2.1. Increase in the Trend of the Number of Days where Minimum Temperature 
+Exceeds 20o Celsius38 
+ 
+  
+Source: Fourth National Communication of the Republic of Uzbekistan under the UN Framework 
+Convention on Climate Change 
+ 
+C. Heat Impact  
+Rising heat is a direct public health hazard in Uzbekistan and a powerful amplifier of pre-existing 
+risks. Heat acts both directly by causing heat exhaustion and heatstroke and indirectly  by 
+stressing the cardiovascular and respiratory systems, worsening air-quality episod es (e.g., 
+dust/sandstorms), degrading drinking-water safety, and shifting the ecology of infectious 
+diseases. National assessments show that circulatory diseases already dominate mortality, with 
+heat events compounding this burden. During very hot months all-cause mortalit y rises above 
+seasonal baselines in most regions. July fatalities during recent hot years have exceeded  April–
+June averages (e.g., +20% in Khorezm, +16% in Tashkent city). Prolonged heat waves ( multi-
+day anomalies ≥ +5 °C above normal) have become more frequent (e.g., large upticks observed 
+in Tashkent), and even modest temperature increments (≈ 1–2 °C) are associated with 10–13% 
+increases in acute intestinal infections, reflecting the sensitivity of water and food safety to heat. 
+ 
+Two complementary biometeorological indicators underpin heat-risk communication and 
+planning. Humidex describes perceived heat load for a person in shade and calm air (temperature 
++ humidity). Values of 40 –45 signal “great discomfort” (avoid exertion), and  ≥ 45  indicate 
+dangerous conditions with heat-stroke risk. Apparent Temperature (AT) extends thi s to sunny, 
+open-air exposure (add wind and solar radiation), with AT ≥ 42 °C  denoting dangerous stress. 
+Observations across 50 stations show a shift from mid-20th- century “moderate” July discomfort 
+to severe discomfort in many lowland districts today (e.g., lower Amu Darya, Khorezm, Bukhara, 
+Syrdarya, Namangan, Andijan). Scenario analyses project further deterioration . By 2080 –2099 
+under high emissions (RCP8.5), humidex may exceed 45 over much of the lowlands—conditions 
+dangerous even at rest —while AT commonly enters the “dangerous” category across summer 
+months, with the highest stress near irrigated zones and reservoirs. 
+ 
+Health impacts are uneven. Most vulnerable are older adults (≥ 65 y), infants and young children, 
+people with cardiovascular/respiratory disease, those with limited access to cool indoor 
+environments or safe water, outdoor workers (agriculture, construction, road),  and residents of 
+dense urban areas where heat is intensified by built surfaces and waste heat. Analyses using an 
+ 
+38 Source: Uzbekistan - National Communications, p-109  
+ < https://unfccc.int/sites/default/files/resource/4NC_Uzbekistan_ENG_14%2010_SEC.pdf> 
+
+
+===== PDF PAGE 38 =====
+
+28 
+ 
+“optimal temperature” approach (OT ≈ 33 °C for summer conditions) indicate that as Tmax– OT 
+widens, relative mortality increases, with notable excess mortality documented during recent long 
+heat waves in Tashkent (e.g., +27% in July 2019 versus non-heat-wave Julys). 
+ 
+D. Landslides and Mudflows 
+Mudflows and landslides are among Uzbekistan’s most destructive natural hazards . These are 
+concentrated in mountainous and foothill belts and frequently originating in tran sboundary 
+headwaters of Kyrgyzstan and Tajikistan. According to Uzhydromet and the Ministry of 
+Emergency Situations (MES), historically, about 61%  of recorded events result in material and 
+social losses. National hydrometeorological analysis identifies 709 mudflow-active watercourses 
+covering up to 53,770 km², or around 12% of the national territory, with nearly 900 economic and 
+social assets located in mudflow-prone zones. 
+ 
+Recent national data show a clear rise in recorded mudflow and flood events during the last five 
+years. Between 2019 and 2023, at least 482 mudflow and flood events were recorded across the 
+country, increasing from 51 events in 2019 to 97 in 2020, 124 in 2021, and peaking  at 161 in 
+2022, before declining to at least 49 events in 2023. This confirms that the eastern and southern 
+regions of Uzbekistan are among the most exposed areas. In approximately 61% of recor ded 
+cases, mudflows cause material or social damage. Spatially, impacts are concentrated in the east 
+and south: Surkhandarya recorded the highest five-year total (167), followed by Namangan (82), 
+Fergana (79), Tashkent (45), Jizzakh (41), Kashkadarya (32), Samarkand (19), Navoi  (14), and 
+Andijan (3). The spike in 2022 aligns with wetter-than-usual conditions and is consi stent with 
+emerging climate-risk signals in the region. 
+ 
+Figure A2.2. Distribution of Mudflows and Landslide records in Uzbekistan, 2019-202339 
+ 
+ 
+ 
+Source: Adapted from MES Report (2024) 
+ 
+ 
+39 Distribution of mudflows and landslide records in Uzbekistan for the period from 2019 to 2023 (MES Report, 2024) 
+
+
+===== PDF PAGE 39 =====
+
+29 
+ 
+Event seasonality is pronounced, multi-year analysis shows 27% of occurrences in April, 33% in 
+May, and 17% in June (77% across the spring –early summer window), with the remaining 23% 
+scattered across other months. Triggers include prolonged or intense rainfall, rapid snowmelt and 
+seasonal thaw, accelerated glacier melt, sudden input of loose colluvium into steep channels 
+(≥0.08–0.10 slope), and in landslide-prone terrain, progressive slope saturation or seismic 
+shaking that initiates mass movements feeding debris into streams.  
+ 
+Temperatures have risen by nearly three times the global average over recent decades,  with 
+increases of up to 2.5°C in the Aral Sea region. Droughts have become more frequent,  with six 
+dry years recorded between 2019 and 202440.  
+ 
+E. Climate Projections  
+Uzbekistan’s Fourth National Communication 41 develops regional climate scenarios from a 16-
+model CMIP5 multi-model ensemble (RCP2.6/4.5/8.5), refined to station scale usi ng diagnostic 
+synchronicity methods against CRU-TS3.24 and national observations. Model skill is very high 
+for monthly air temperature (typical station- month correlations ≈0.88– 0.99) and acceptable for 
+precipitation, reflecting global practice. Projections are presented for four time slices: 2020–2039, 
+2040–2059, 2060–2079, and 2080–2099. 
+ 
+Figure A2.3. Projected Changes under RCP4.5 and RCP8.5 Scenarios40 
+ 
+ 
+ 
+40 https://www.unep.org/news-and-stories/press-release/climate-change-drives-rising-temperatures-and-severe-
+drought 
+41 https://unfccc.int/sites/default/files/resource/4NC_Uzbekistan_ENG_14%2010_SEC.pdf 
+
+
+===== PDF PAGE 40 =====
+
+30 
+ 
+ 
+ 
+Source: Fourth National Communication of the Republic of Uzbekistan under the UN Framework 
+Convention on Climate Change 
+Temperature increases are robust across all scenarios and seasons. By late century, nati onal 
+annual mean temperature rises by about 1.3 °C under RCP2.6, ~2.5 –3 °C, RCP4.5, and ~5 °C 
+under RCP8.5 relative to 1986–2005. 
+ 
+Warming is seasonally uneven, minimal in winter to spring and maximum in summer. Near-term 
+summer anomalies are already ~1.3–1.6 °C (2020–2039), increasing to ~4.5–7 °C by 2080–2099 
+under RCP8.5. Regionally, the largest annual increases are projected for Karakalpakstan and the 
+desert parts of Navoi, while the smallest occur in mountain zones of Tashkent and Kashkadarya. 
+Observations for 2000 –2019 already show ~+0.7 °C in Karakalpakstan versus the 1986 –2005 
+baseline. 
+ 
+Figure A2.4. Projected Changes in the Basins of the Biggest Water Suppliers in the 
+Region under RCP4.5 Scenario 
+ 
+  
+ 
+Source: Fourth National Communication of the Republic of Uzbekistan under the UN Framework 
+Convention on Climate Change 
+Precipitation changes at the country scale are modest in annual totals (generally within ±5%), but 
+seasonal and regional redistributions are material. In the Syr Darya runoff-formation zone, winter 
+
+
+===== PDF PAGE 41 =====
+
+31 
+ 
+and spring precipitation increase up to ~15 –18% by mid- to late-century under RCP8.5 while 
+summer decreases by ~9%. In the Amu Darya zone, winter-spring increases of ~2–8% and slight 
+summer–autumn declines are projected across scenarios. In mountain areas such as Chirchik –
+Ahangaran, rising temperatures shorten the frost season markedly—from ~110 frost days (1986–
+2005) to ~90–99 days under RCP4.5 and ~60 –78 days under RCP8.5 by 2080 –2099, implying 
+reduced seasonal snow cover and altered runoff timing. 
+ 
+For water management, these signals mean higher summer heat stress and water demand 
+alongside greater intra-annual supply variability. Even where annual precipit ation remains near 
+baseline, increases in winter –spring and decreases in summer shift storage and conveyance 
+requirements, raising the probability of droughts, flash floods, and debris-fl ow (sel) risk. Priority 
+actions include embedding climate-informed design values in storage and flood-protection assets, 
+expanding headwater observing networks (snow, rainfall, debris-flow sensors), and ali gning 
+seasonal operations with the projected pull-forward of cool-season moisture and the compression 
+of the frost/snow season. 
+ 
+F. Green Transition  
+Uzbekistan has achieved dynamic economic growth, reaching a GDP of USD115 bil lion in 2024 
+with a 6.5% annual increase fueled by structural reforms and rising foreign investmen t. The 
+country leads Central Asian growth forecasts, supported by an expanding services sector, robust 
+exports, and significant progress in diversification. Policy transformation is anchored in the 
+Uzbekistan2030 Strategy and the Strategy for Transition to Green Economy (2019–2030), which 
+set ambitious renewable energy, forestry, and water 
+management targets. Key initiatives include 
+expanding green energy to 40% of supply, scaling climate-smart agriculture, and modernizi ng 
+irrigation across 4.3 million hectares. 
+ 
+Governance reforms have established the National Committee of Ecology and Climate C hange 
+(NCECC) as the central authority, backed by specialized agencies for climate m onitoring and 
+adaptation, forestry conservation, waste management, and climate research. Real-time cl imate 
+monitoring and enhanced multi-hazard early warning systems now cover all ma jor regions, 
+improving disaster risk management. 
+ 
+Flagship projects such as the Green Climate Fund early warning initiative amounting to USD 9.9 
+million to modernize hydro-meteorological networks and integrate climate data  into decision-
+making. In November of 2025, Uzbekistan’s updated Nationally Determined Contribution commits 
+to a 50% reduction in GHG emissions per GDP unit by 2035. This is r einforced by high-level 
+national programs, strong institutional coordination, and significant international sup port. 
+Designating 2025 as the "Year of Environmental Protection and Green Economy" signal s 
+deepening national resolve for sustainable development and biodiversity protection. 
+ 
+Reforms have strengthened the early warning system, but critical gaps persist. These i nclude: 
+uneven last-mile alerting and sensor coverage in remote/high-risk areas, limited pow er and 
+communications redundancy, non-harmonized data standards between NCECC, MES  and 
+Uzhydromet, underfunded operations and maintenance and system upgrades, capacity and 
+retention gaps at subnational level, incomplete inclusion of vulnerable groups in warning delivery, 
+and partial cross-border data exchange and joint procedures for transboundary floods  and 
+droughts. 
+ 
+
+===== PDF PAGE 42 =====
+
+
+
+===== PDF PAGE 43 =====
+
+33 
+ 
+ 
+Annex 3. Relevant Ongoing and Newly Approved Projects in CIEWS in Uzbekistan 
+ 
+# Project / Programme Financier & volume Implementing / executing 
+partners 
+Geographic focus in 
+Uzbekistan Relevance to CIEWS / climate services 
+1 Enhancing Multi-Hazard 
+Early Warning System to 
+Increase Resilience of 
+Uzbekistan Communities to 
+Climate Change-Induced 
+Hazards (SAP022) 
+Green Climate Fund, 
+grant ~USD 9.9 
+million; total 
+envelope with co-
+financing ≈USD 40+ 
+million  
+AE: UNDP; EE: Ministry of 
+Emergency Situations and 
+Uzhydromet 
+National coverage with 
+priority focus on eastern 
+mountainous regions 
+(Ferghana Valley and other 
+high-risk areas)  
+Core national MHEWS modernization; expands and 
+automates hydrometeorological networks; introduces 
+impact-based forecasting and socio-economic risk 
+modelling; improves warning lead times and 
+dissemination; pilots forecast-based financing and lays 
+the backbone of a national CIEWS architecture.  
+2 Strengthening Climate 
+Resilience through 
+Introduction of Innovative 
+Smart Techniques in Flood 
+and Drought Management 
+in Central Asia 
+Ministry of 
+Environment of the 
+Republic of Korea, 
+(grant, regional 
+project 2024–2027)  
+GGGI with AWC/K-Water;  
+in Uzbekistan: MEEPCC 
+(including Uzhydromet), MES, 
+Ministry of Water Resources 
+Initial focus on Andijan and 
+other flood- and drought-
+prone regions, with 
+Ferghana Valley as a key 
+pilot area  
+Co-designs impact-based EWS at basin/community 
+level; introduces smart monitoring and control for flood 
+and drought risk; supports policy assessments 
+(CRGG/CRVA), institutional capacity building and 
+integration with national hydromet and water-
+management systems.  
+3 Climate Risk Management 
+in Central Asia (CRM CA) 
+GIZ, programme 
+funded by BMZ, 
+budget ≈EUR 10 
+million region-wide 
+(2022–2026/28)  
+GIZ with responsible 
+ministries in all five CA states, 
+including National Committee 
+of Ecology and Climate 
+Change and sector agencies 
+in Uzbekistan  
+Transboundary river basins 
+shared with neighboring 
+states (e.g. Amu Darya, Syr 
+Darya sub-basins), including 
+pilot work in Uzbekistan 
+Strengthens transboundary climate and disaster risk 
+management; supports basin-scale climate-risk 
+assessments, regional data sharing, and 
+policy/strategy development on CCA, DRR and water 
+management—providing a regional framework and 
+knowledge base into which a national CIEWS can plug. 
+4 Reducing Vulnerabilities of 
+Populations in Central Asia 
+from Glacier Lake Outburst 
+Floods in a Changing 
+Climate (GLOFCA) 
+Adaptation Fund, 
+regional project 
+(2021–2027)  
+UNESCO Regional Office in 
+Almaty with national hydromet 
+and geology/emergency 
+institutions;  
+in Uzbekistan: Uzhydromet, 
+Hydroengeo, Institute of 
+Geology & Geophysics 
+Pskem River basin 
+(Bostanlyk District) including 
+Pskem and Tepar villages 
+and adjacent high-mountain 
+valleys 
+Introduces glacier-lake hazard mapping, high-mountain 
+monitoring (AWS, camera systems, temporary 
+hydrological posts), and community-based GLOF early 
+warning and education —directly complementing 
+national CIEWS in a critical cryosphere hotspot and 
+feeding lessons into wider mountainous EWS design.  
+5 Resilient Food Systems 
+through Climate Services 
+for Agriculture in 
+Uzbekistan 
+Adaptation Fund,  
+grant USD 10 million 
+(Approval FY 2025) 
+AE: IFAD; national partners to 
+include agriculture, hydromet 
+and climate institutions 
+National agricultural areas, 
+with emphasis on 
+smallholder farming systems 
+and climate-sensitive 
+production zones 
+Establishes a dedicated agro-climatic monitoring, 
+analysis, communication and information system; 
+builds institutional capacity for long-term climate 
+scenario analysis and adaptation planning in 
+agriculture; and delivers tailored climate services and 
+advisories to rural populations—deepening the sector-
+specific “last -mile” arm of CIEWS in agriculture and 
+food security. 
+6 Glaciers to Farms (G2F) 
+Regional Programme: 
+Advancing Climate 
+Resilience & Sustainable 
+Development in Central and 
+West Asia (FP283) 
+Green Climate Fund, 
+USD 250 million 
+(grants and loans) 
+with ≈USD 3.25 
+billion in co-financing 
+(ADB and others) 
+AE: Asian Development Bank;  
+in Uzbekistan, implementation 
+will involve the Ministry of 
+Ecology, Environment 
+Protection and Climate 
+Change and relevant 
+water/energy/agriculture 
+agencies 
+Regional programme 
+covering nine countries, 
+including Uzbekistan; 
+focuses on glacier-
+dependent river basins in 
+Pamir and Tien Shan 
+systems that underpin 
+Uzbekistan’s water security 
+Integrates cryosphere science into development 
+planning; finances climate-informed planning tools, 
+bankable adaptation projects and resilient 
+infrastructure in glacier-fed basins; strengthens water-
+resource monitoring and risk analytics. For Uzbekistan, 
+it will help translate upstream glacier and hydrological 
+information into water-allocation, irrigation and risk-
+management decisions that CIEWS must support. 
+ 
