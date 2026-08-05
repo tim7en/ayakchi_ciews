@@ -1,13 +1,13 @@
 """Render the CIEWS Markdown reference report as a self-contained styled HTML document."""
 
+import argparse
 from pathlib import Path
 
 import markdown
 
 
 ROOT = Path(__file__).resolve().parent
-SOURCE = ROOT / "CIEWS_REFERENCE_REPORT.md"
-TARGET = ROOT / "CIEWS_REFERENCE_REPORT.html"
+DEFAULT_SOURCE = ROOT / "CIEWS_REFERENCE_REPORT.md"
 
 CSS = """
 @page { size: A4; margin: 18mm 16mm 20mm; }
@@ -41,8 +41,14 @@ strong { color: #173f4d; }
 
 
 def main():
+    parser = argparse.ArgumentParser(description=__doc__)
+    parser.add_argument("source", nargs="?", type=Path, default=DEFAULT_SOURCE)
+    parser.add_argument("--output", type=Path)
+    args = parser.parse_args()
+    source = args.source.resolve()
+    target = args.output.resolve() if args.output else source.with_suffix(".html")
     body = markdown.markdown(
-        SOURCE.read_text(encoding="utf-8"),
+        source.read_text(encoding="utf-8"),
         extensions=["tables", "fenced_code", "sane_lists"],
         output_format="html5",
     )
@@ -51,8 +57,8 @@ def main():
 <meta name="viewport" content="width=device-width,initial-scale=1">
 <title>Ayakchi CIEWS Technical Reference Report</title><style>{CSS}</style></head>
 <body>{body}</body></html>"""
-    TARGET.write_text(html, encoding="utf-8")
-    print(f"Wrote {TARGET} ({TARGET.stat().st_size:,} bytes)")
+    target.write_text(html, encoding="utf-8")
+    print(f"Wrote {target} ({target.stat().st_size:,} bytes)")
 
 
 if __name__ == "__main__":

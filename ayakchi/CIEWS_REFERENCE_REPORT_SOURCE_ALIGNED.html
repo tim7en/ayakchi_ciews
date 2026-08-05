@@ -1,0 +1,1018 @@
+<!doctype html>
+<html lang="en"><head><meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Ayakchi CIEWS Technical Reference Report</title><style>
+@page { size: A4; margin: 18mm 16mm 20mm; }
+html { color: #1f2933; background: #eef2f3; font-family: Arial, Helvetica, sans-serif; }
+body { max-width: 1020px; margin: 24px auto; padding: 54px 64px; background: white;
+       box-shadow: 0 2px 14px rgba(0,0,0,.12); line-height: 1.48; }
+h1 { color: #123f5a; font-size: 2.15rem; border-bottom: 4px solid #2a8f9d; padding-bottom: 12px; }
+h2 { color: #155e75; margin-top: 2.2rem; border-bottom: 1px solid #b7d5da; padding-bottom: 6px; }
+h3 { color: #1e6071; margin-top: 1.6rem; }
+h4 { color: #365e66; }
+p, li { font-size: 10.5pt; }
+table { width: 100%; border-collapse: collapse; margin: 1.1rem 0 1.5rem; font-size: 9pt; }
+th { background: #155e75; color: white; text-align: left; }
+th, td { border: 1px solid #aebdc2; padding: 6px 7px; vertical-align: top; }
+tr:nth-child(even) td { background: #f3f7f8; }
+img { display: block; max-width: 100%; max-height: 820px; margin: 18px auto 8px; page-break-inside: avoid; }
+blockquote { background: #e8f3f5; border-left: 5px solid #2a8f9d; margin: 1.2rem 0;
+             padding: 8px 18px; color: #244b54; }
+code { background: #eef2f3; padding: 1px 4px; }
+pre { background: #f2f6f7; border: 1px solid #cad7da; padding: 12px; overflow-x: auto; font-size: 8.5pt; }
+hr { border: 0; border-top: 1px solid #b7c7cb; margin: 2rem 0; }
+strong { color: #173f4d; }
+@media print {
+  html { background: white; }
+  body { max-width: none; margin: 0; padding: 0; box-shadow: none; }
+  h1, h2, h3 { page-break-after: avoid; }
+  table, figure, img, blockquote { page-break-inside: avoid; }
+  a { color: inherit; text-decoration: none; }
+}
+</style></head>
+<body><h1>Ayakchi Climate Information and Early Warning System</h1>
+<h2>Source-aligned concept and evidence report</h2>
+<p><strong>Prepared for:</strong> CIEWS Stakeholder Mapping and Vision Setting<br>
+<strong>Primary reference:</strong> <em>Republic of Uzbekistan: Climate Information and Early Warning Systems — Stakeholder and Landscape Mapping Report</em> (<code>57055-001-tacr-en_2.pdf</code>)<br>
+<strong>Local evidence:</strong> Ayakchi upstream catchment, connected downstream basin, hazard, drought, land-cover, and exposure analyses<br>
+<strong>Status:</strong> Draft for government and stakeholder consultation<br>
+<strong>Date:</strong> 5 August 2026</p>
+<hr>
+<h2>Executive summary</h2>
+<p>The national stakeholder and landscape mapping report defines a Climate Information and Early Warning System (CIEWS) as an <strong>end-to-end chain from climate and hydrometeorological data to warnings and sector decisions</strong>. It recommends a “forecast-to-field” architecture that connects Uzhydromet forecasts, Ministry of Water Resources (MoWR) operations, Ministry of Emergency Situations (MES) warning and response, Ministry of Agriculture (MoA) planning, and last-mile action through Water Supply Services (WSSs), Water User Associations (WUAs), local government, and communities.</p>
+<p>This report applies that national concept to Ayakchi. It combines the institutional and digital architecture in the national reference with the project’s current basin evidence. It is intended to guide the stakeholder workshop, define the proposed pilot, and provide a reference for the subsequent presentation and concept design.</p>
+<p>Ayakchi is well suited to a basin-level “forecast-to-field” pilot because it connects four decision environments:</p>
+<ol>
+<li>an elevated <strong>89.1 km² upstream catchment</strong> where rainfall, snow, erosion, and terrain processes influence reservoir inflow;</li>
+<li>a confirmed dam requiring climate-informed storage, release, sediment, and safety awareness;</li>
+<li>a <strong>372.8 km² connected basin</strong>, of which approximately <strong>76% lies below the dam</strong> and can generate additional tributary runoff; and</li>
+<li>a downstream agricultural and settlement corridor requiring water-service decisions, warnings, and protective action.</li>
+</ol>
+<p>The broader 5 km contextual study area covers approximately <strong>1,051.5 km²</strong>. Global screening data indicate approximately <strong>106,800 people</strong> in this area, including about <strong>20,900 within the connected basin</strong> and about <strong>27,000 within a 2 km corridor around the mapped downstream flow path</strong>. The corridor is approximately 50% cropland and 9% built land according to ESA WorldCover. These are planning estimates, not population-at-risk or inundation results.</p>
+<p>The existing analysis also demonstrates the need for combined drought and flood services. Mean CHIRPS rainfall during 2021–2025 was approximately <strong>328 mm/year</strong>, compared with a 1991–2020 normal of approximately <strong>421 mm/year</strong>. Annual rainfall ranged from about <strong>243 mm</strong> in 2021 and 2023 to about <strong>449 mm</strong> in 2022. The largest recent three-day rainfall total was approximately <strong>56.3 mm</strong>. The record is too short for frequency analysis, but it shows that Ayakchi operations must handle both scarcity and episodic high rainfall.</p>
+<p>The national reference identifies the same system gaps that are relevant to Ayakchi: no binding cross-sector trigger matrix, irregular sector bulletins, fragmented data systems, uneven monitoring and communications redundancy, uncertain lifecycle financing, and inconsistent last-mile capacity. It specifically records stakeholder interest in an Ayakchi/Obizarang watershed and early-warning platform integrating flood, drought, sediment inflow, SCADA, telemetry, operational decision support, and community risk communication (reference document, PDF pp. 32–35).</p>
+<p>The proposed Ayakchi pilot should therefore not create a parallel national warning system. It should become an <strong>object- and basin-level extension</strong> of Uzbekistan’s emerging national CIEWS architecture:</p>
+<blockquote>
+<p>Uzhydromet observation and forecast → Ayakchi basin and reservoir analysis → MoWR operational action → MES/SEPRS warning and coordination → WSS/WUA/local authority translation → community and farmer action → feedback and system learning</p>
+</blockquote>
+<p>The workshop should secure agreement on the initial services, lead coordination, data providers, technical product owners, warning authority, pilot communities, trigger-development process, integration with existing national platforms, and financing for operation and maintenance.</p>
+<hr>
+<h2>1. Relationship to the national CIEWS reference</h2>
+<h3>1.1 National direction</h3>
+<p>The national reference proposes modernization from a partially connected warning arrangement to a fully impact-based “forecast-to-action” and “forecast-to-field” system. Its principal recommendations are to:</p>
+<ul>
+<li>establish sector-specific watch–alert–action trigger matrices;</li>
+<li>issue weekly and monthly sector bulletins on a fixed schedule;</li>
+<li>operate a unified real-time multi-hazard dashboard;</li>
+<li>harmonize identifiers and data schemas across hydrometeorology, water, agriculture, metering, and cadastre systems;</li>
+<li>secure lifecycle funding for sensors, radar, communications, and regional centers;</li>
+<li>strengthen inclusive last-mile channels through WSSs, WUAs, and communities;</li>
+<li>introduce forecast-triggered preparedness and financing; and</li>
+<li>pilot the package in selected basins before national scale-up (reference document, PDF pp. 28–29).</li>
+</ul>
+<p>The Ayakchi concept adopts these principles at basin and reservoir scale. It adds site-specific evidence, users, monitoring needs, products, and decisions without duplicating the authoritative responsibilities or core systems of national institutions.</p>
+<h3>1.2 Earlier and current dam-site status</h3>
+<p>The October 2025 meeting record in the reference document described Option 5 as the working basis, still subject at that time to geotechnical, archaeological, and government confirmation (PDF p. 32). For this report, that statement is superseded by the project’s current confirmed dam location, as communicated by the project team in August 2026. Subsequent analysis uses the confirmed Option 5 location supplied in the project spatial data.</p>
+<h3>1.3 Ayakchi-specific value added</h3>
+<p>The national architecture is broad. The Ayakchi pilot can demonstrate how national services become concrete operational decisions at four levels:</p>
+<table>
+<thead>
+<tr>
+<th>Level</th>
+<th>Ayakchi application</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>National</td>
+<td>Uzhydromet forecasts and warnings; MES/SEPRS coordination; national water and climate policy</td>
+</tr>
+<tr>
+<td>Sector and basin</td>
+<td>MoWR water allocation, reservoir operation, dam safety, digital water accounting</td>
+</tr>
+<tr>
+<td>District and service</td>
+<td>WSS delivery schedules, irrigation instructions, road and infrastructure readiness</td>
+</tr>
+<tr>
+<td>Community and farm</td>
+<td>Protective action, local confirmation, water-use adjustments, impact reporting</td>
+</tr>
+</tbody>
+</table>
+<hr>
+<h2>2. Why CIEWS is needed</h2>
+<h3>2.1 National problem translated to Ayakchi</h3>
+<p>The reference document identifies warming, altered snow and runoff timing, increasing heat and evapotranspiration, drought, floods, flash floods, mudflows, and landslides as major national concerns. It emphasizes that even where annual rainfall changes are modest, seasonal redistribution and higher temperatures can increase both scarcity and extreme-event risk (PDF pp. 11–16 and 36–41).</p>
+<p>At Ayakchi these concerns translate into practical management questions:</p>
+<ul>
+<li>How much water is likely to enter the reservoir this season?</li>
+<li>Is current storage sufficient for irrigation and other agreed uses?</li>
+<li>Should operating readiness change because of forecast rain, catchment wetness, snowmelt, or downstream conditions?</li>
+<li>Are releases likely to coincide with high tributary flows below the dam?</li>
+<li>Which downstream users and assets should receive an advisory or warning?</li>
+<li>How should WSSs and WUAs adjust delivery schedules during drought or high-flow conditions?</li>
+<li>Are erosion and sediment conditions likely to affect reservoir performance or infrastructure?</li>
+<li>Did the warning reach users, and did they understand and act on it?</li>
+</ul>
+<h3>2.2 Evidence of a dual drought–flood operating problem</h3>
+<p>The recent Ayakchi record contains both marked dryness and episodic intense rainfall:</p>
+<table>
+<thead>
+<tr>
+<th>Indicator</th>
+<th style="text-align: right;">Screening result</th>
+<th>Operational implication</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1991–2020 normal rainfall</td>
+<td style="text-align: right;">421 mm/year</td>
+<td>Baseline for anomaly monitoring</td>
+</tr>
+<tr>
+<td>2021–2025 mean rainfall</td>
+<td style="text-align: right;">328 mm/year</td>
+<td>Recent period substantially below normal</td>
+</tr>
+<tr>
+<td>Driest recent year</td>
+<td style="text-align: right;">2021: 243 mm</td>
+<td>Need for drought readiness and allocation support</td>
+</tr>
+<tr>
+<td>Longest recent dry spell</td>
+<td style="text-align: right;">147 days in 2023</td>
+<td>Need for seasonal and sub-seasonal monitoring</td>
+</tr>
+<tr>
+<td>Wettest recent year</td>
+<td style="text-align: right;">2022: 449 mm</td>
+<td>Wet years remain possible within a dry sequence</td>
+</tr>
+<tr>
+<td>Largest recent 3-day rainfall</td>
+<td style="text-align: right;">56.3 mm in 2022</td>
+<td>Need for short-range event readiness</td>
+</tr>
+<tr>
+<td>Upstream catchment</td>
+<td style="text-align: right;">89.1 km²</td>
+<td>Reservoir-inflow monitoring area</td>
+</tr>
+<tr>
+<td>Incremental area below dam</td>
+<td style="text-align: right;">283.5 km²</td>
+<td>Downstream tributaries require separate monitoring</td>
+</tr>
+</tbody>
+</table>
+<p>The five-year period is not sufficient for design probabilities. Its purpose is to demonstrate the need for an operational service that updates as conditions change.</p>
+<p><img alt="Recent annual precipitation compared with the climate normal" src="drought_dam_outputs/chart_01_annual_precipitation_vs_normal.png"></p>
+<p><em>Figure 1. Recent CHIRPS precipitation compared with the 1991–2020 normal. CHIRPS is a basin-scale screening product and requires validation against national observations.</em></p>
+<h3>2.3 Information gap</h3>
+<p>The primary gap is not the absence of maps. It is the absence of a formally agreed operational chain linking authoritative data and forecasts to specific decisions, actions, messages, and feedback. Ayakchi requires:</p>
+<ul>
+<li>access to the relevant Uzhydromet observation and forecast services;</li>
+<li>reservoir and SCADA information from the dam operator;</li>
+<li>upstream and downstream telemetry suitable for threshold development;</li>
+<li>an agreed trigger matrix connecting technical conditions with MoWR and MES actions;</li>
+<li>fixed drought and water-status products for agricultural users;</li>
+<li>verified settlement, infrastructure, and community information;</li>
+<li>inclusive communication and acknowledgement arrangements; and</li>
+<li>long-term responsibility and financing for operation, calibration, communications, and maintenance.</li>
+</ul>
+<hr>
+<h2>3. Ayakchi dam and study-area context</h2>
+<h3>3.1 Hydrological setting</h3>
+<p>The confirmed dam is located at the outlet of an upstream catchment of approximately <strong>89.1 km²</strong>. Terrain ranges from approximately <strong>860 m to 2,068 m</strong>, with mean elevation around <strong>1,538 m</strong> and relief of approximately <strong>1,208 m</strong>. The analytical upstream main flow path is approximately <strong>19.2 km</strong>.</p>
+<p>The connected downstream analysis extends approximately <strong>47.9 km</strong> from the dam to the city-facing basin outlet. The path descends approximately <strong>340 m</strong>. The contributing area increases from approximately <strong>89.3 km² at the dam</strong> to <strong>372.8 km² at the downstream outlet</strong>.</p>
+<p><img alt="Connected Ayakchi drainage system" src="downstream_analysis_outputs/map_01_connected_drainage_system.png"></p>
+<p><em>Figure 2. Connected drainage system. The mapped network is terrain-derived and requires verification against surveyed channels and structures.</em></p>
+<h3>3.2 Why downstream tributaries matter</h3>
+<p>Approximately 76% of the connected drainage area lies below the dam. Consequently:</p>
+<ul>
+<li>a low or controlled dam release does not guarantee low downstream flow;</li>
+<li>downstream tributary rainfall must be observed or estimated;</li>
+<li>warning logic must consider coincident reservoir releases and tributary peaks;</li>
+<li>downstream gauges should be located to distinguish main-stem and tributary contributions; and</li>
+<li>messages should distinguish a reservoir-related notification from a general downstream flood warning.</li>
+</ul>
+<p><img alt="Dam-to-outlet longitudinal profile" src="downstream_analysis_outputs/chart_01_dam_to_city_profile.png"></p>
+<p><em>Figure 3. DEM-derived downstream profile. It is not a surveyed hydraulic profile and cannot establish flood travel time.</em></p>
+<h3>3.3 Land use and settlement context</h3>
+<p>The 5 km contextual analysis supports user and exposure mapping. It must not be presented as an inundation boundary.</p>
+<table>
+<thead>
+<tr>
+<th>Zone</th>
+<th style="text-align: right;">Area</th>
+<th style="text-align: right;">Cropland</th>
+<th style="text-align: right;">Built land</th>
+<th style="text-align: right;">Indicative population</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Upstream catchment</td>
+<td style="text-align: right;">89.1 km²</td>
+<td style="text-align: right;">0.2%</td>
+<td style="text-align: right;">&lt;0.1%</td>
+<td style="text-align: right;">1,609</td>
+</tr>
+<tr>
+<td>Incremental downstream area</td>
+<td style="text-align: right;">284.0 km²</td>
+<td style="text-align: right;">59.5%</td>
+<td style="text-align: right;">4.1%</td>
+<td style="text-align: right;">19,301</td>
+</tr>
+<tr>
+<td>Connected basin</td>
+<td style="text-align: right;">372.8 km²</td>
+<td style="text-align: right;">45.4%</td>
+<td style="text-align: right;">3.2%</td>
+<td style="text-align: right;">20,901</td>
+</tr>
+<tr>
+<td>2 km flow-path corridor</td>
+<td style="text-align: right;">174.8 km²</td>
+<td style="text-align: right;">49.9%</td>
+<td style="text-align: right;">9.2%</td>
+<td style="text-align: right;">27,017</td>
+</tr>
+<tr>
+<td>Total contextual study area</td>
+<td style="text-align: right;">1,051.5 km²</td>
+<td style="text-align: right;">39.0%</td>
+<td style="text-align: right;">4.8%</td>
+<td style="text-align: right;">106,776</td>
+</tr>
+</tbody>
+</table>
+<p>The downstream concentration of cropland, built land, and population directly supports the national reference’s emphasis on WSS, WUA, local-government, and community involvement.</p>
+<p><img alt="Benchmark land cover in the Ayakchi contextual study area" src="buffer_zone_outputs/map_03_worldcover_benchmark.png"></p>
+<p><em>Figure 4. ESA WorldCover benchmark. Land-cover classes require local validation.</em></p>
+<p><img alt="Indicative population distribution" src="buffer_zone_outputs/map_02_buffer_population_context.png"></p>
+<p><em>Figure 5. WorldPop screening estimate. This is not an official census or population-at-risk map.</em></p>
+<hr>
+<h2>4. Preliminary findings for service design</h2>
+<h3>4.1 Terrain, runoff, erosion, and sediment</h3>
+<p>The relative rapid-runoff screening identifies channel-concentration corridors, while erosion screening places approximately <strong>30.5% of the upstream basin in high or very high classes</strong>. Terrain-instability screening places approximately <strong>15.9% in high or very high classes</strong>. The national reference separately records sedimentation as a critical project concern and recommends sediment-yield analysis, trap-efficiency assessment, nature-based watershed measures, bathymetric baselines, and periodic monitoring for Ayakchi and Obizarang (PDF p. 32).</p>
+<p>This supports an Ayakchi CIEWS function for <strong>sediment and watershed condition awareness</strong>, but operational sediment alerts require turbidity or sediment observations, rainfall and discharge data, bathymetry, and locally validated source areas.</p>
+<p><img alt="Erosion susceptibility screening" src="hazard_screening_outputs/map_02_erosion.png"></p>
+<p><em>Figure 6. Relative erosion susceptibility—not predicted sediment yield.</em></p>
+<h3>4.2 Drought and water availability</h3>
+<p>Approximately <strong>80.2%</strong> of the upstream catchment is classified as high or very high in the relative drought-stress index. This index combines recent satellite moisture and vegetation conditions with land cover and solar exposure. It does not represent an official drought stage.</p>
+<p>The operational drought service should align with the national reference’s rolling one- to three-month water-availability outlooks and periodic hydrological/agrometeorological bulletins (PDF p. 20). At Ayakchi, the service should combine Uzhydromet information with reservoir storage, inflow, irrigation demand, delivery constraints, and WSS/WUA reports.</p>
+<p><img alt="Drought and ecosystem-stress screening" src="hazard_screening_outputs/map_04_drought_stress.png"></p>
+<p><em>Figure 7. Relative drought-stress screening for monitoring prioritization.</em></p>
+<h3>4.3 Snowmelt and seasonal inflow</h3>
+<p>Approximately <strong>51.0%</strong> of the upstream catchment is classified as moderate to high in the snowmelt-runoff screening. National operations already use regional MODSNOW guidance, and the national reference recommends expanded headwater observation of snow, rainfall, and debris-flow conditions (PDF pp. 21 and 41).</p>
+<p>Ayakchi should use national snow guidance and add local validation where it improves reservoir decisions. Candidate monitoring should be selected after confirming representativeness, access, communications, and maintenance capacity.</p>
+<p><img alt="Snowmelt-runoff screening" src="hazard_screening_outputs/map_06_snowmelt_runoff.png"></p>
+<p><em>Figure 8. Relative seasonal snowmelt-runoff potential.</em></p>
+<h3>4.4 Exposure and impact information</h3>
+<p>The current buffer study identifies broad concentrations of population, agriculture, and built land. An impact-based service additionally requires verified:</p>
+<ul>
+<li>villages and neighbourhoods;</li>
+<li>buildings and vulnerable population groups;</li>
+<li>schools, clinics, government facilities, and shelters;</li>
+<li>roads, bridges, culverts, crossings, and evacuation routes;</li>
+<li>canals, intakes, pumps, and water-supply infrastructure;</li>
+<li>communication coverage and warning equipment; and</li>
+<li>historical impact locations and community accounts.</li>
+</ul>
+<p>This database should use shared identifiers compatible with relevant national water, agriculture, cadastre, and emergency systems.</p>
+<hr>
+<h2>5. Priority hazards and affected sectors</h2>
+<table>
+<thead>
+<tr>
+<th>Priority service area</th>
+<th>Ayakchi evidence</th>
+<th>Principal sectors</th>
+<th>Proposed initial status</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Drought and seasonal water availability</td>
+<td>Recent rainfall deficit; high drought-stress screening</td>
+<td>MoWR, dam operator, WSS, WUA, agriculture, water supply</td>
+<td>Core pilot service</td>
+</tr>
+<tr>
+<td>Heavy rainfall and rapid runoff</td>
+<td>Relief and channel concentration; intense recent multi-day rainfall</td>
+<td>Uzhydromet, MoWR, MES, roads, settlements</td>
+<td>Core pilot service</td>
+</tr>
+<tr>
+<td>Reservoir inflow, level, release, and spillway awareness</td>
+<td>Dam is central project component</td>
+<td>Dam operator, MoWR, MES, downstream authorities</td>
+<td>Core pilot service</td>
+</tr>
+<tr>
+<td>Downstream tributary flood awareness</td>
+<td>76% of connected basin below dam</td>
+<td>MES, local government, communities, roads, irrigation</td>
+<td>Core pilot service</td>
+</tr>
+<tr>
+<td>Snow and snowmelt awareness</td>
+<td>Elevated headwaters; moderate/high screening</td>
+<td>Uzhydromet, dam operator, MoWR</td>
+<td>Core seasonal input</td>
+</tr>
+<tr>
+<td>Sediment and erosion awareness</td>
+<td>High erosion screening; reference-document concern</td>
+<td>Dam operator, watershed managers, agriculture</td>
+<td>Develop with observations</td>
+</tr>
+<tr>
+<td>Terrain instability and mudflow awareness</td>
+<td>Terrain screening and national hazard context</td>
+<td>MES, roads, communities, dam access</td>
+<td>Integrate with national service</td>
+</tr>
+<tr>
+<td>Heat and agricultural demand</td>
+<td>National CIEWS priority; downstream agriculture</td>
+<td>MoA, WSS, WUA, farmers, health actors</td>
+<td>Use national products initially</td>
+</tr>
+</tbody>
+</table>
+<p>The pilot should concentrate on services where Ayakchi adds basin- or reservoir-specific value. It should consume rather than recreate national heat, weather, and general hazard forecasts.</p>
+<hr>
+<h2>6. Proposed CIEWS functions and products</h2>
+<h3>6.1 Forecast-to-field functions</h3>
+<table>
+<thead>
+<tr>
+<th>Function</th>
+<th>National/system source</th>
+<th>Ayakchi value added</th>
+<th>Action link</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Weather and climate outlook</td>
+<td>Uzhydromet/NFCS</td>
+<td>Catchment and reservoir interpretation</td>
+<td>Readiness, seasonal operation, allocation</td>
+</tr>
+<tr>
+<td>Hydrological monitoring</td>
+<td>Uzhydromet and project gauges</td>
+<td>Upstream/downstream basin state</td>
+<td>Watch levels and situational awareness</td>
+</tr>
+<tr>
+<td>Reservoir monitoring</td>
+<td>MoWR/dam operator/SCADA</td>
+<td>Storage, gate, release, spillway context</td>
+<td>Operating procedure and notification</td>
+</tr>
+<tr>
+<td>Agricultural water service</td>
+<td>MoWR/MoA/Suv hisobi/CropAgro</td>
+<td>Ayakchi availability and local delivery implications</td>
+<td>Rotation and delivery adjustment</td>
+</tr>
+<tr>
+<td>Impact assessment</td>
+<td>MES, local authorities, sector data</td>
+<td>Communities, assets, roads, irrigation exposure</td>
+<td>Warning content and protective action</td>
+</tr>
+<tr>
+<td>Last-mile communication</td>
+<td>MES, WSS, WUA, local government</td>
+<td>Local message, acknowledgement and feedback</td>
+<td>Community and farmer action</td>
+</tr>
+<tr>
+<td>Event learning</td>
+<td>All participating institutions</td>
+<td>Basin event archive and performance review</td>
+<td>Threshold and procedure improvement</td>
+</tr>
+</tbody>
+</table>
+<h3>6.2 Initial product suite</h3>
+<table>
+<thead>
+<tr>
+<th>Product</th>
+<th>Content</th>
+<th>Cadence</th>
+<th>Owner to confirm</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Ayakchi operational dashboard</td>
+<td>Forecasts, rainfall, snow, upstream/downstream stage, reservoir level, release, system health</td>
+<td>Near real time</td>
+<td>MoWR platform operator with data owners</td>
+</tr>
+<tr>
+<td>Weekly basin and reservoir bulletin</td>
+<td>Recent conditions, forecast, storage trend, data status, operational concerns</td>
+<td>Weekly</td>
+<td>Joint technical product</td>
+</tr>
+<tr>
+<td>Monthly drought and water-status bulletin</td>
+<td>Rainfall, snow, soil moisture, vegetation, storage, demand and service implications</td>
+<td>Monthly</td>
+<td>MoWR/MoA with Uzhydromet input</td>
+</tr>
+<tr>
+<td>Seasonal Ayakchi outlook</td>
+<td>National outlook translated into inflow, storage, allocation and agricultural scenarios</td>
+<td>Key planning seasons</td>
+<td>Uzhydromet and MoWR</td>
+</tr>
+<tr>
+<td>Heavy-rainfall/rapid-runoff watch</td>
+<td>Uzhydromet forecast plus Ayakchi wetness, channels, reservoir and downstream context</td>
+<td>Event driven</td>
+<td>Uzhydromet/MoWR technical chain</td>
+</tr>
+<tr>
+<td>Reservoir release notification</td>
+<td>Planned or emergency release, timing, rate, downstream notification status</td>
+<td>Event driven</td>
+<td>Dam operator/MoWR under approved SOP</td>
+</tr>
+<tr>
+<td>Downstream impact-based warning</td>
+<td>Expected condition, location, timing, confidence, impact and action</td>
+<td>Event driven</td>
+<td>Authorized MES/SEPRS chain</td>
+</tr>
+<tr>
+<td>Sediment/watershed condition note</td>
+<td>Rainfall/flow/turbidity indicators, erosion observations, reservoir implications</td>
+<td>Event/seasonal</td>
+<td>Dam and watershed technical team</td>
+</tr>
+<tr>
+<td>Post-event review</td>
+<td>Data, forecasts, decisions, warnings, actions, impacts and lessons</td>
+<td>After significant event</td>
+<td>CIEWS governance group</td>
+</tr>
+</tbody>
+</table>
+<p>Products should have agreed service levels: issuance time, update frequency, data cutoff, approval time, distribution list, backup producer, and archive requirements.</p>
+<hr>
+<h2>7. Users, institutions, and decisions</h2>
+<p>The national reference provides a clearer basis for assigning functions than the earlier generic role map.</p>
+<table>
+<thead>
+<tr>
+<th>Institution/user</th>
+<th>Reference-document role</th>
+<th>Ayakchi decision responsibility</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Uzhydromet</td>
+<td>National monitoring, forecasting, and hydrometeorological warning authority</td>
+<td>Provide authoritative observations, forecasts, watches, warnings, and technical inputs</td>
+</tr>
+<tr>
+<td>MoWR</td>
+<td>Reservoir/canal operation, dam safety, water allocation, digital water management</td>
+<td>Operate Ayakchi reservoir; translate forecasts into operating and allocation decisions</td>
+</tr>
+<tr>
+<td>Dam owner/operator</td>
+<td>Reservoir and SCADA operation under MoWR arrangements</td>
+<td>Monitor level, gates, release and structures; execute approved SOPs; notify conditions</td>
+</tr>
+<tr>
+<td>MES/SEPRS</td>
+<td>Public warning, incident command, evacuation, road closure, life safety</td>
+<td>Authorize/coordinate impact-based warning and protective response according to mandate</td>
+</tr>
+<tr>
+<td>MoA and agricultural services</td>
+<td>Crop planning and agrometeorological use</td>
+<td>Translate water and climate information into crop and farm guidance</td>
+</tr>
+<tr>
+<td>WSS</td>
+<td>District/city water delivery and last-mile data</td>
+<td>Adjust delivery schedules and communicate practical water instructions</td>
+</tr>
+<tr>
+<td>WUA</td>
+<td>On-farm distribution and local coordination</td>
+<td>Translate service information into local schedules and farmer action</td>
+</tr>
+<tr>
+<td>Regional/district authorities</td>
+<td>Local coordination and public communication</td>
+<td>Confirm local conditions, coordinate services and support dissemination</td>
+</tr>
+<tr>
+<td>Roads and infrastructure operators</td>
+<td>Protect transport and critical assets</td>
+<td>Inspect, restrict, close, or restore affected assets</td>
+</tr>
+<tr>
+<td>Communities and farmers</td>
+<td>Act on warnings and water guidance</td>
+<td>Protect life/assets, adjust practices, acknowledge and report impacts</td>
+</tr>
+<tr>
+<td>NCECC/NFCS coordination</td>
+<td>National climate-service policy and coordination</td>
+<td>Ensure alignment with national climate-services development</td>
+</tr>
+</tbody>
+</table>
+<p>Final authority and accountability must be confirmed against current legal mandates and recorded in the workshop decision matrix.</p>
+<hr>
+<h2>8. Monitoring and data architecture</h2>
+<h3>8.1 Build on existing systems</h3>
+<p>The reference document identifies existing Uzhydromet portals and modelling, MoWR’s Suv hisobi and planned Situation Center, State Water Cadastre, pump-meter integration, satellite monitoring, MoA’s CropAgro/Agroplatforma, MES systems, and the UNDP/Uzhydromet GIS risk platform. It also records a three-layer concept—central, regional, and potential object/site level—with room to extend object-level capability to reservoirs (PDF p. 34).</p>
+<p>Ayakchi should be designed as that object/site and basin layer. A separate, isolated platform would increase fragmentation.</p>
+<pre><code class="language-text">Uzhydromet observations, forecasts and warnings
+                         │
+National and regional CIEWS / MES / MoWR systems
+                         │
+          Ayakchi basin and reservoir service
+       ┌─────────────────┼──────────────────┐
+       │                 │                  │
+Upstream gauges      Reservoir/SCADA   Downstream gauges
+       │                 │                  │
+       └──────── analysis, triggers and products ────────┐
+                                                         │
+           MoWR operation ───── MES/SEPRS warning        │
+                  │                    │                  │
+             WSS/WUA/local authorities/community feedback
+</code></pre>
+<h3>8.2 Immediate data request</h3>
+<p>The reference document records Uzhydromet’s request for a precise specification of variables, coverage, temporal resolution, and delivery formats (PDF p. 33). The Ayakchi request should cover, at minimum:</p>
+<ul>
+<li>historical and near-real-time precipitation and temperature;</li>
+<li>snow observations and relevant MODSNOW products;</li>
+<li>river stage and discharge at relevant stations;</li>
+<li>historical warnings and event records;</li>
+<li>available radar, nowcast, COSMO-CA, CARFFGS, and hydrological products;</li>
+<li>metadata, quality flags, station changes, and data latency; and</li>
+<li>terms for operational system access distinct from one-time feasibility-study archives.</li>
+</ul>
+<h3>8.3 Monitoring gap assessment</h3>
+<p>Candidate new or upgraded monitoring should include representative upper-catchment precipitation/temperature, upstream flow, reservoir level and release, priority downstream tributaries, and exposed downstream reaches. Sediment/turbidity, cameras, snow, soil moisture, or debris-flow sensors should be added only where they support an agreed decision and can be maintained.</p>
+<p>Site selection criteria should include hydrological representativeness, user lead time, exposure, access, security, power, communications, maintenance, calibration, and compatibility with national standards.</p>
+<h3>8.4 Data governance</h3>
+<p>The pilot should demonstrate:</p>
+<ul>
+<li>common station, asset, intake, parcel, and community identifiers;</li>
+<li>documented units, datum, timestamps, quality flags, and latency;</li>
+<li>authoritative ownership with controlled operational sharing;</li>
+<li>application programming interfaces or standard exports;</li>
+<li>warning and decision audit trails;</li>
+<li>outage notification and fallback procedures;</li>
+<li>cybersecurity and role-based access; and</li>
+<li>lifecycle budgets for equipment, calibration, communications, software, staff, and replacement.</li>
+</ul>
+<hr>
+<h2>9. Warning and action chain</h2>
+<h3>9.1 Proposed Ayakchi chain</h3>
+<ol>
+<li><strong>Uzhydromet detects or forecasts</strong> hazardous weather, hydrological drought, snowmelt, or other relevant conditions.</li>
+<li><strong>Ayakchi monitoring adds local context</strong> from catchment, reservoir, downstream, and field observations.</li>
+<li><strong>Technical producers assess a shared trigger matrix</strong> and document confidence, affected area, and likely impacts.</li>
+<li><strong>MoWR/dam operator executes authorized operational actions</strong> under approved rules and SOPs.</li>
+<li><strong>MES/SEPRS issues or coordinates public warnings and protective guidance</strong> according to mandate.</li>
+<li><strong>WSS, WUA, local authorities, and sector operators translate the message</strong> into delivery schedules, road actions, community instructions, and farm decisions.</li>
+<li><strong>Recipients acknowledge and act</strong>, using primary and backup communication channels.</li>
+<li><strong>Field conditions and impacts return to the platform</strong>, allowing update, escalation, all-clear, and post-event review.</li>
+</ol>
+<h3>9.2 Trigger-matrix template</h3>
+<table>
+<thead>
+<tr>
+<th>Level</th>
+<th>Example evidence</th>
+<th>Technical interpretation</th>
+<th>MoWR/operator action</th>
+<th>MES/local action</th>
+<th>User message</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Normal</td>
+<td>Conditions within seasonal range</td>
+<td>Routine monitoring</td>
+<td>Normal operation</td>
+<td>Routine readiness</td>
+<td>Regular bulletin</td>
+</tr>
+<tr>
+<td>Watch</td>
+<td>Forecast or observed anomaly developing</td>
+<td>Increased possibility; uncertainty remains</td>
+<td>Increase monitoring; review storage/release readiness</td>
+<td>Notify focal points; verify contacts</td>
+<td>Awareness and preparedness</td>
+</tr>
+<tr>
+<td>Alert</td>
+<td>Threshold approached/exceeded with plausible impacts</td>
+<td>Event likely or underway</td>
+<td>Execute approved operational step; report status</td>
+<td>Prepare/issue targeted warning and protective action</td>
+<td>What, where, when, what to do</td>
+</tr>
+<tr>
+<td>Emergency</td>
+<td>Severe observed condition or failure scenario</td>
+<td>Immediate life-safety concern</td>
+<td>Emergency SOP and continuous reporting</td>
+<td>Incident command, evacuation/closure as authorized</td>
+<td>Immediate protective instruction</td>
+</tr>
+<tr>
+<td>Recovery/all-clear</td>
+<td>Condition receding and verified</td>
+<td>Residual risks assessed</td>
+<td>Stabilize operations and inspect</td>
+<td>All-clear/recovery coordination</td>
+<td>Safe return and continuing precautions</td>
+</tr>
+</tbody>
+</table>
+<p>Numerical thresholds must not be assigned from the current screening analysis. They require approved operating rules, national criteria, observations, model calibration, documented impacts, testing, and competent authority approval.</p>
+<h3>9.3 Inclusive last mile</h3>
+<p>Consistent with the national reference, Ayakchi dissemination should combine SMS and official digital channels with TV/radio where relevant, WSS/WUA and district messaging, local radio, siren/public-address systems where justified, and USSD/IVR or pictogram/plain-language formats for users with limited connectivity or literacy. Warning design must include women, older people, persons with disabilities, seasonal workers, remote households, and people without smartphones.</p>
+<hr>
+<h2>10. Phased implementation</h2>
+<h3>Phase 0 — Government agreement and pilot definition, 0–3 months</h3>
+<ul>
+<li>confirm Ayakchi pilot objectives, services, users, and geographic coverage;</li>
+<li>approve the institutional and warning-authority matrix;</li>
+<li>establish the Uzhydromet data request and government access pathway;</li>
+<li>inventory existing stations, SCADA, platforms, communications, and procedures;</li>
+<li>validate settlements, assets, WSS/WUA structure, and community channels; and</li>
+<li>agree platform-integration principles and performance indicators.</li>
+</ul>
+<p><strong>Decision gate:</strong> endorsed pilot charter, named accountable organizations, and minimum data access.</p>
+<h3>Phase 1 — Minimum operational information service, 3–9 months</h3>
+<ul>
+<li>connect available Uzhydromet, reservoir, forecast, satellite, and field information;</li>
+<li>establish an internal Ayakchi dashboard within or interoperable with existing platforms;</li>
+<li>pilot weekly basin/reservoir and monthly drought/water bulletins;</li>
+<li>establish shared contacts, message templates, and event logs;</li>
+<li>document provisional qualitative triggers and SOP links; and</li>
+<li>conduct data-loss, tabletop, and communication tests.</li>
+</ul>
+<p><strong>Decision gate:</strong> reliable routine products and demonstrated end-to-end test communication.</p>
+<h3>Phase 2 — Monitoring and pilot action service, 6–18 months</h3>
+<ul>
+<li>rehabilitate or install priority upstream, reservoir, tributary, and downstream monitoring;</li>
+<li>implement quality control, telemetry health, calibration, and maintenance routines;</li>
+<li>create a verified event and exposure database;</li>
+<li>pilot watch–alert–action matrices with selected users and communities;</li>
+<li>integrate WSS/WUA water-service decisions and acknowledgement; and</li>
+<li>complete after-action reviews with measurable corrective actions.</li>
+</ul>
+<p><strong>Decision gate:</strong> monitoring reliability and evidence that users receive, understand, and act on services.</p>
+<h3>Phase 3 — Calibrated models and formal thresholds, 12–30 months</h3>
+<ul>
+<li>calibrate hydrological and reservoir-inflow models;</li>
+<li>survey priority downstream channels and structures;</li>
+<li>develop hydraulic or sediment models where decisions justify them;</li>
+<li>establish validated lead times and impact-based thresholds;</li>
+<li>approve formal cross-institution SOPs and service levels; and</li>
+<li>independently review technical performance and safety-critical use.</li>
+</ul>
+<p><strong>Decision gate:</strong> approved models, thresholds, SOPs, and sustainable operational financing.</p>
+<h3>Phase 4 — Consolidation and scale-up, from 24 months</h3>
+<ul>
+<li>integrate lessons into national CIEWS/NFCS, MoWR, MES, and agricultural systems;</li>
+<li>expand to other reservoirs or basins only after performance review;</li>
+<li>institutionalize training, exercises, budgets, and replacement cycles; and</li>
+<li>maintain joint learning with relevant regional and national programmes.</li>
+</ul>
+<hr>
+<h2>11. Decisions requested from government</h2>
+<table>
+<thead>
+<tr>
+<th>Required decision</th>
+<th>Specific Ayakchi question</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Pilot purpose</td>
+<td>Which decisions must demonstrably improve in the first phase?</td>
+</tr>
+<tr>
+<td>Lead coordination</td>
+<td>Which organization is accountable for the Ayakchi pilot and inter-agency delivery?</td>
+</tr>
+<tr>
+<td>Platform approach</td>
+<td>Which existing national/MoWR/MES platform will host or interoperate with the Ayakchi object layer?</td>
+</tr>
+<tr>
+<td>Technical product ownership</td>
+<td>Who produces each dashboard, bulletin, watch, and reservoir notification?</td>
+</tr>
+<tr>
+<td>Warning authority</td>
+<td>Who authorizes public warnings, updates, and all-clear messages, including backups?</td>
+</tr>
+<tr>
+<td>Data sharing</td>
+<td>Which Uzhydromet, MoWR, dam, WSS, MoA, MES, and local datasets will be available and at what latency?</td>
+</tr>
+<tr>
+<td>Initial users</td>
+<td>Which WSSs, WUAs, communities, roads, and service providers form the pilot?</td>
+</tr>
+<tr>
+<td>Trigger process</td>
+<td>Which working group will develop and approve the watch–alert–action matrix?</td>
+</tr>
+<tr>
+<td>Monitoring investment</td>
+<td>Which decisions and gaps justify new stations or telemetry?</td>
+</tr>
+<tr>
+<td>Last-mile channels</td>
+<td>Which primary and backup channels reach all target users?</td>
+</tr>
+<tr>
+<td>Financing</td>
+<td>Who funds operation, calibration, communications, software, staff, maintenance, and replacement?</td>
+</tr>
+<tr>
+<td>Performance</td>
+<td>Which indicators determine whether the pilot should be scaled?</td>
+</tr>
+</tbody>
+</table>
+<p>Recommended pilot indicators, adapted from the national reference, include product timeliness, data availability, warning lead-time utilization, warning acknowledgement, share of water-service decisions informed by CIEWS, difference between observed/metered and fallback estimates, user comprehension, equipment uptime, and quality/completion of after-action reviews.</p>
+<hr>
+<h2>12. Agreed actions and responsibilities</h2>
+<table>
+<thead>
+<tr>
+<th>Immediate action</th>
+<th>Proposed lead for confirmation</th>
+<th>Supporting parties</th>
+<th>Timing after workshop</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Approve Ayakchi pilot charter and governance</td>
+<td>MoWR/project governance</td>
+<td>Uzhydromet, MES, MoA, NCECC/NFCS, local authorities</td>
+<td>2–4 weeks</td>
+</tr>
+<tr>
+<td>Issue precise hydrometeorological data request</td>
+<td>Ayakchi technical lead/MoWR</td>
+<td>Uzhydromet and project consultants</td>
+<td>2 weeks</td>
+</tr>
+<tr>
+<td>Inventory stations, SCADA, communications and platforms</td>
+<td>Joint technical team</td>
+<td>All asset and data owners</td>
+<td>1–2 months</td>
+</tr>
+<tr>
+<td>Confirm initial products and service levels</td>
+<td>Product owners</td>
+<td>User representatives</td>
+<td>1–2 months</td>
+</tr>
+<tr>
+<td>Map WSS, WUA, community and infrastructure users</td>
+<td>Regional/district coordination</td>
+<td>MoWR, MES, MoA and local stakeholders</td>
+<td>1–3 months</td>
+</tr>
+<tr>
+<td>Validate exposure and historical events</td>
+<td>MES/local authorities</td>
+<td>Communities, road, irrigation and service operators</td>
+<td>1–3 months</td>
+</tr>
+<tr>
+<td>Draft data-sharing and identifier protocol</td>
+<td>Lead coordinator</td>
+<td>Data owners, legal and IT teams</td>
+<td>2–3 months</td>
+</tr>
+<tr>
+<td>Draft Ayakchi trigger matrix and SOP links</td>
+<td>Uzhydromet–MoWR–MES working group</td>
+<td>MoA, WSS, local authorities</td>
+<td>2–4 months</td>
+</tr>
+<tr>
+<td>Prototype dashboard and bulletins</td>
+<td>Platform/technical operator</td>
+<td>Product owners and users</td>
+<td>2–4 months</td>
+</tr>
+<tr>
+<td>Prepare monitoring gap and lifecycle-cost plan</td>
+<td>Technical lead</td>
+<td>Operators and maintenance teams</td>
+<td>3–5 months</td>
+</tr>
+<tr>
+<td>Conduct first end-to-end tabletop exercise</td>
+<td>MES/SEPRS with pilot lead</td>
+<td>Entire warning and action chain</td>
+<td>Within 6 months</td>
+</tr>
+<tr>
+<td>Review pilot performance and authorize next phase</td>
+<td>Pilot governance group</td>
+<td>Users and independent technical review</td>
+<td>9–12 months</td>
+</tr>
+</tbody>
+</table>
+<hr>
+<h2>13. Presentation implications</h2>
+<p>The presentation based on this report should make three ideas explicit:</p>
+<ol>
+<li><strong>Ayakchi is not a stand-alone software project.</strong> It is an object- and basin-level implementation of Uzbekistan’s national forecast-to-field CIEWS direction.</li>
+<li><strong>The dam is central but not the only hydrological control.</strong> Most of the connected basin lies below the dam, requiring tributary monitoring and a separate downstream warning view.</li>
+<li><strong>Success is measured by decisions and action.</strong> The dashboard, stations, models, and maps are enabling components; success is timely water operations, warnings, protective action, and learning.</li>
+</ol>
+<p>Suggested presentation sequence:</p>
+<ol>
+<li>National CIEWS direction and workshop purpose</li>
+<li>Why Ayakchi is an appropriate pilot</li>
+<li>Confirmed dam and nested study areas</li>
+<li>Upstream catchment and reservoir context</li>
+<li>Downstream tributary contribution</li>
+<li>Agriculture, settlements, and population context</li>
+<li>Drought and hydroclimate findings</li>
+<li>Runoff, erosion, sediment, and snowmelt findings</li>
+<li>Priority services and users</li>
+<li>National-to-Ayakchi forecast-to-field architecture</li>
+<li>Proposed products and cadence</li>
+<li>Monitoring and platform integration</li>
+<li>Trigger matrix and warning chain</li>
+<li>Institutional responsibilities</li>
+<li>Phased pilot roadmap</li>
+<li>Government decisions requested</li>
+<li>Immediate actions and owners</li>
+</ol>
+<hr>
+<h2>14. Limitations and evidence status</h2>
+<ul>
+<li>The national reference provides the institutional baseline as of its preparation; current legal mandates and organizational names should be confirmed by government.</li>
+<li>The earlier conditional status of Option 5 in the October 2025 meeting record has been superseded by the project team’s current confirmation.</li>
+<li>Hazard maps are relative susceptibility products, not calibrated probabilities or forecasts.</li>
+<li>The 5 km buffer and 2 km corridor are contextual planning zones, not inundation or dam-break boundaries.</li>
+<li>The downstream distance bands and DEM profile do not provide hydraulic travel times or flood depths.</li>
+<li>CHIRPS, ERA5-Land, WorldPop, ESA WorldCover, GHSL, Dynamic World, MODIS, and other global products require local validation.</li>
+<li>Gross rainfall volume and ERA5 runoff are not routed reservoir inflow or design-flood estimates.</li>
+<li>Population estimates are not official census counts or population-at-risk estimates.</li>
+<li>Numerical triggers require observations, operating rules, calibrated models, impact records, testing, and authority approval.</li>
+<li>Dam-safety, emergency-action, design-flood, hydraulic, geotechnical, and sediment-management studies remain separate professional workstreams that CIEWS may support but cannot replace.</li>
+</ul>
+<hr>
+<h2>Appendix A. Source alignment matrix</h2>
+<table>
+<thead>
+<tr>
+<th>National reference theme</th>
+<th>Source location</th>
+<th>Ayakchi application</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>CIEWS as end-to-end forecast-to-field chain</td>
+<td>PDF pp. 5–9</td>
+<td>Basin/reservoir service linked to operational and community decisions</td>
+</tr>
+<tr>
+<td>Uzhydromet monitoring, forecasts and warnings</td>
+<td>PDF pp. 18–21</td>
+<td>Authoritative upstream weather, climate and hydrological inputs</td>
+</tr>
+<tr>
+<td>MoWR reservoir, canal and dam-safety operation</td>
+<td>PDF p. 18</td>
+<td>Reservoir operation and water-allocation actions</td>
+</tr>
+<tr>
+<td>MES/SEPRS warning and response</td>
+<td>PDF pp. 18, 22–23</td>
+<td>Public warning, protective action and incident coordination</td>
+</tr>
+<tr>
+<td>WSS/WUA last-mile water decisions</td>
+<td>PDF pp. 22–23</td>
+<td>Delivery schedules, farmer instructions and feedback</td>
+</tr>
+<tr>
+<td>Suv hisobi, cadastre and water digitalization</td>
+<td>PDF pp. 21 and 24–26</td>
+<td>Data and platform interoperability</td>
+</tr>
+<tr>
+<td>CropAgro/Agroplatforma</td>
+<td>PDF pp. 8 and 24–26</td>
+<td>Agricultural decision channel</td>
+</tr>
+<tr>
+<td>Trigger matrices and fixed bulletins</td>
+<td>PDF pp. 28–29</td>
+<td>Ayakchi watch–alert–action matrix and scheduled products</td>
+</tr>
+<tr>
+<td>Unified multi-hazard dashboard</td>
+<td>PDF pp. 23 and 28–29</td>
+<td>Integrated Ayakchi object/basin view</td>
+</tr>
+<tr>
+<td>Inclusive last-mile channels</td>
+<td>PDF pp. 23 and 28–29</td>
+<td>Redundant, accessible community and farmer communication</td>
+</tr>
+<tr>
+<td>Ayakchi watershed/EWS platform interest</td>
+<td>PDF pp. 32–35</td>
+<td>Direct basis for proposed pilot functions</td>
+</tr>
+<tr>
+<td>Flood/drought/sediment reservoir focus</td>
+<td>PDF pp. 32–35</td>
+<td>Initial operational product scope</td>
+</tr>
+<tr>
+<td>Two-basin pilot direction</td>
+<td>PDF p. 35</td>
+<td>Ayakchi/Obizarang programme alignment</td>
+</tr>
+</tbody>
+</table>
+<h2>Appendix B. Local analytical evidence</h2>
+<table>
+<thead>
+<tr>
+<th>Evidence</th>
+<th>Project output</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Upstream catchment and morphology</td>
+<td><code>hydromorphology_outputs/</code></td>
+</tr>
+<tr>
+<td>Downstream drainage and profile</td>
+<td><code>downstream_analysis_outputs/</code></td>
+</tr>
+<tr>
+<td>Environmental and climate data provenance</td>
+<td><code>gee_environmental_data/manifest.json</code></td>
+</tr>
+<tr>
+<td>Drought and rainfall screening</td>
+<td><code>drought_dam_outputs/</code></td>
+</tr>
+<tr>
+<td>Hazard screening and methodology</td>
+<td><code>hazard_screening_outputs/</code></td>
+</tr>
+<tr>
+<td>Buffer, land cover, built surface and population</td>
+<td><code>buffer_zone_outputs/</code></td>
+</tr>
+<tr>
+<td>Earlier detailed technical reference</td>
+<td><code>CIEWS_REFERENCE_REPORT.md</code></td>
+</tr>
+</tbody>
+</table></body></html>
