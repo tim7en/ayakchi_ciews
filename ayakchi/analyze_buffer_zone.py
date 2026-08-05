@@ -194,9 +194,11 @@ def plot_worldcover(path, connected, buffer_geom, upstream, flow_path):
     with rasterio.open(path) as src:
         raw = src.read(1, masked=True)
         extent = [src.bounds.left, src.bounds.right, src.bounds.bottom, src.bounds.top]
-    codes = list(WC_CLASSES); display = np.ma.masked_all(raw.shape, dtype="float32")
+    codes = list(WC_CLASSES); display = np.full(raw.shape, np.nan, dtype="float32")
+    raw_values = raw.filled(-9999)
     for index, code in enumerate(codes):
-        display[raw == code] = index
+        display[raw_values == code] = index
+    display = np.ma.masked_invalid(display)
     cmap = ListedColormap(WC_COLORS); norm = BoundaryNorm(np.arange(-0.5, len(codes) + 0.5), cmap.N)
     fig, ax = plt.subplots(figsize=(10, 10))
     image = ax.imshow(display, extent=extent, cmap=cmap, norm=norm, interpolation="nearest")

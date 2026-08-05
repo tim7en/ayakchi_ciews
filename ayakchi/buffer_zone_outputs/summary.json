@@ -14,6 +14,7 @@
   "limitations": [
     "The 5 km buffer is contextual and is not a flood or dam-break boundary.",
     "Population and built-surface layers are preliminary screening datasets.",
-    "Land-cover classifications require local validation."
+    "Land-cover classifications require local validation.",
+    "Dynamic World over-classifies built land relative to ESA WorldCover and GHSL in this dry landscape; use ESA WorldCover as the benchmark."
   ]
 }
