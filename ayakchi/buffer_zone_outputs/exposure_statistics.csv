@@ -1,0 +1,7 @@
+zone,zone_area_km2,built_surface_km2,indicative_population_2020,built_raster_pixel_area_km2
+upstream_catchment,89.095,0.034,1609,0.01
+downstream_incremental,284.043,5.594,19301,0.01
+connected_basin,372.762,5.627,20901,0.01
+five_km_buffer_ring,678.758,18.255,85874,0.01
+two_km_river_corridor,174.801,7.273,27017,0.01
+total_study_area,1051.52,23.882,106776,0.01

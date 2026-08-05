@@ -1,0 +1,19 @@
+{
+  "created": "2026-08-05",
+  "crs": "EPSG:32642",
+  "buffer_distance_m": 5000,
+  "river_corridor_distance_m": 2000,
+  "study_area_km2": 1051.52,
+  "connected_basin_km2": 372.762,
+  "sources": {
+    "land_cover": "GOOGLE/DYNAMICWORLD/V1 (Apr-Oct 2025 mode)",
+    "benchmark_land_cover": "ESA/WorldCover/v200 (2021)",
+    "built_surface": "JRC/GHSL/P2023A/GHS_BUILT_S/2020",
+    "population": "WorldPop/GP/100m/pop (UZB, 2020)"
+  },
+  "limitations": [
+    "The 5 km buffer is contextual and is not a flood or dam-break boundary.",
+    "Population and built-surface layers are preliminary screening datasets.",
+    "Land-cover classifications require local validation."
+  ]
+}

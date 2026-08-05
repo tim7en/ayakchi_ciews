@@ -1,0 +1,55 @@
+zone,class_code,land_cover,area_km2,percent
+upstream_catchment,0,Water,0.0,0.0
+upstream_catchment,1,Trees,4.463,5.01
+upstream_catchment,2,Grass,0.0,0.0
+upstream_catchment,3,Flooded vegetation,0.0,0.0
+upstream_catchment,4,Crops,17.237,19.35
+upstream_catchment,5,Shrub/scrub,48.321,54.24
+upstream_catchment,6,Built,0.07,0.08
+upstream_catchment,7,Bare,19.001,21.33
+upstream_catchment,8,Snow/ice,0.0,0.0
+downstream_incremental,0,Water,0.0,0.0
+downstream_incremental,1,Trees,0.411,0.14
+downstream_incremental,2,Grass,0.001,0.0
+downstream_incremental,3,Flooded vegetation,0.003,0.0
+downstream_incremental,4,Crops,86.766,30.55
+downstream_incremental,5,Shrub/scrub,5.593,1.97
+downstream_incremental,6,Built,32.387,11.4
+downstream_incremental,7,Bare,158.818,55.93
+downstream_incremental,8,Snow/ice,0.0,0.0
+connected_basin,0,Water,0.0,0.0
+connected_basin,1,Trees,4.874,1.31
+connected_basin,2,Grass,0.001,0.0
+connected_basin,3,Flooded vegetation,0.003,0.0
+connected_basin,4,Crops,103.964,27.89
+connected_basin,5,Shrub/scrub,53.704,14.41
+connected_basin,6,Built,32.457,8.71
+connected_basin,7,Bare,177.713,47.68
+connected_basin,8,Snow/ice,0.0,0.0
+five_km_buffer_ring,0,Water,0.0,0.0
+five_km_buffer_ring,1,Trees,9.157,1.35
+five_km_buffer_ring,2,Grass,0.073,0.01
+five_km_buffer_ring,3,Flooded vegetation,0.01,0.0
+five_km_buffer_ring,4,Crops,252.972,37.39
+five_km_buffer_ring,5,Shrub/scrub,136.954,20.24
+five_km_buffer_ring,6,Built,96.064,14.2
+five_km_buffer_ring,7,Bare,181.307,26.8
+five_km_buffer_ring,8,Snow/ice,0.0,0.0
+two_km_river_corridor,0,Water,0.0,0.0
+two_km_river_corridor,1,Trees,1.321,0.76
+two_km_river_corridor,2,Grass,0.005,0.0
+two_km_river_corridor,3,Flooded vegetation,0.008,0.0
+two_km_river_corridor,4,Crops,71.343,40.88
+two_km_river_corridor,5,Shrub/scrub,6.578,3.77
+two_km_river_corridor,6,Built,37.417,21.44
+two_km_river_corridor,7,Bare,57.826,33.14
+two_km_river_corridor,8,Snow/ice,0.0,0.0
+total_study_area,0,Water,0.0,0.0
+total_study_area,1,Trees,14.031,1.34
+total_study_area,2,Grass,0.074,0.01
+total_study_area,3,Flooded vegetation,0.013,0.0
+total_study_area,4,Crops,356.936,34.02
+total_study_area,5,Shrub/scrub,190.658,18.17
+total_study_area,6,Built,128.521,12.25
+total_study_area,7,Bare,359.02,34.22
+total_study_area,8,Snow/ice,0.0,0.0
